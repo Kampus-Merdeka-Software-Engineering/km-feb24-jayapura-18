@@ -1,0 +1,348 @@
+body {
+    margin: 0;
+    padding: 0;
+   
+    font-family: 'Montserrat', sans-serif;
+}
+
+.product-header {
+    text-align: center;
+}
+
+.material-icons-outlined {
+    vertical-align: middle;
+    line-height: 1px;
+    font-size: 35px;
+}
+  
+.grid-container {
+    display: grid;
+    grid-template-columns: 260px 1fr 1fr 1fr;
+    grid-template-rows: 0.2fr 3fr;
+    grid-template-areas:
+      'sidebar header header header'
+      'sidebar main main main';
+    height: 100vh;
+    background-image: url('../pages/assets/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: #29293d;
+}
+  
+/* ---------- HEADER ---------- */
+.header {
+    grid-area: header;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px 0 30px;
+    box-shadow: 0 6px 7px -3px rgba(0, 0, 0, 0.35);
+    background-color:#162640;
+    color: #d8d8d8;
+}
+  
+.menu-icon {
+    display: none;
+    cursor: pointer;
+}
+
+.header-right{
+    justify-content: space-between;
+    position: relative;
+}
+
+.header-left, .header-right {
+    display: inline-block;
+    position: relative;
+}
+.header-left .material-icons-outlined, .header-right .material-icons-outlined {
+    font-size: 24px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.btnSearch {
+    width: auto;
+    background-color: #d8d8d8;
+    border: 2px solid rgb(229, 223, 223);
+    border-radius: 5px ;
+    -webkit-border-radius: 5px ;
+    -moz-border-radius: 5px ;
+    -ms-border-radius: 5px ;
+    -o-border-radius: 5px ;
+    cursor: pointer;
+}
+
+.btnSearch:hover {
+    border: 1px solid #aaa8a8;
+    border-radius: 5px;
+    background-color: #575656;
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.2); /* Bayangan di tengah ikon */
+    transform: scale(1.1); /* Perbesar ukuran ikon */
+}
+
+.search-input,
+.btnSearch {
+    display: none;
+    margin-left: 10px;
+    padding: 5px;
+}
+.header-left.active .search-input,
+.header-left.active .btnSearch {
+    display: inline-block;
+}
+.material-icons-outlined email-icon{
+    margin: 20px;
+}
+
+.notifications {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 30px;
+    background-color: white;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    z-index: 1000;
+}
+
+.notifications a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid #ccc;
+}
+.notifications a:hover {
+    background-color: #aeafaf;
+}
+
+.email-panel {
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 30px;
+    width: 300px;
+    background-color: white;
+    color: #162640;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    z-index: 1000;
+}
+.email-panel.active {
+    display: block;
+}
+.email-item {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+.email-item:last-child {
+    border-bottom: none;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: white;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    min-width: 160px;
+    padding: 12px 16px;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+.dropdown.active .dropdown-content {
+    display: block;
+}
+.profile-picture {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 12px;
+}
+
+/* ---------- SIDEBAR ---------- */
+
+#sidebar {
+    grid-area: sidebar;
+    height: 100%;
+    background-color: #263043;
+    overflow-y: auto;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+
+.sidebar-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 30px 30px 30px;
+    margin-bottom: 30px;
+    color: #dfdfe4;
+}
+  
+.sidebar-title > span {
+    display: none;
+}
+  
+.sidebar-brand {
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 700;
+}
+  
+.sidebar-list {
+    padding: 0;
+    margin-top: 15px;
+    list-style-type: none;
+}
+  
+.sidebar-list-item {
+    padding: 20px 20px 20px 20px;
+    font-size: 18px;
+}
+  
+.sidebar-list-item:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+}
+  
+.sidebar-list-item > a {
+    text-decoration: none;
+    color: #9e9ea4;
+}
+  
+.sidebar-responsive {
+    display: inline !important;
+    position: absolute;
+    /*
+      the z-index of the ApexCharts is 11
+      we want the z-index of the sidebar higher so that
+      the charts are not showing over the sidebar 
+      on small screens
+    */
+    z-index: 12 !important;
+}
+
+/* ------ MAIN PRODUCT PAGE -----*/
+
+main {
+    grid-area: main;
+    overflow-y: auto;
+    padding: 20px 20px;
+    color: #1d2634;
+    background: rgba(255, 255, 255, 0.8); /*background semi transparent*/
+}
+
+.product-category {
+    margin-bottom: 40px;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.product {
+    border: 1px solid #5a5757;
+    border-radius: 5px;
+    padding: 10px;
+    width: calc(33.333% - 20px);
+    box-sizing: border-box;
+    text-align: center;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+}
+
+.product:hover {
+    transform: translateY(-10px);
+}
+
+.product img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.product h3 {
+    font-size: 20px;
+    margin: 10px 0;
+}
+
+.product p {
+    font-size: 16px;
+    color: #454545;
+}
+
+
+/* ---------- MEDIA QUERIES ---------- */
+  
+/* Medium <= 992px */
+  
+@media screen and (max-width: 992px) {
+    .grid-container {
+      grid-template-columns: 1fr;
+      grid-template-rows: 0.2fr 3fr;
+      grid-template-areas:
+        'header'
+        'main';
+    }
+  
+    #sidebar {
+      display: none;
+    }
+  
+    .menu-icon {
+      display: inline;
+    }
+  
+    .sidebar-title > span {
+      display: inline;
+    }
+  }
+  
+/* Small <= 768px */
+  
+@media screen and (max-width: 768px) {
+    .main-cards {
+      grid-template-columns: 1fr;
+      gap: 10px;
+      margin-bottom: 0;
+    }
+  
+    .charts {
+      grid-template-columns: 1fr;
+      margin-top: 30px;
+    }
+  }
+  
+/* Extra Small <= 576px */
+  
+@media screen and (max-width: 576px) {
+    .hedaer-left {
+      display: none;
+    }
+  }
+
+/* --- FOOTER (gajadi diisi deh) */
+/* footer {
+    background-color: #1d2634;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+} */

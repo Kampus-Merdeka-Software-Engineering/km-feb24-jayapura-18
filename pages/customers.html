@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customers</title>
+
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../css/customers.css">
+</head>
+<body>
+    <div class="grid-container">
+
+        <!-- Header -->
+        <header class="header">
+            <form class="header-left">
+              <span class="material-icons-outlined" id="searchIcon">search</span>
+              <input type="text" class="search-input" id="searchInput" placeholder="Search...">
+              <button class="btnSearch" id="btnSearch">Find</button>
+          </form>
+      
+            <div class="header-right">
+              <span class="material-icons-outlined notification-icon" onclick="toggleNotifications()">notifications</span>
+              <div id="notificationsPanel" class="notifications">
+                <a href="#">Notification 1</a>
+                <a href="#">Notification 2</a>
+                <a href="#">Notification 3</a>
+              </div>
+            
+      
+              <div class="header-right">
+                <span class="material-icons-outlined email-icon" onclick="toggleEmailPanel()">email</span>
+                <div id="emailPanel" class="email-panel">
+                    <!-- Tambahkan elemen untuk menampilkan pesan email -->
+                    <div class="email-item">Email 1: Subject - Lorem ipsum dolor sit amet</div>
+                    <div class="email-item">Email 2: Subject - Consectetur adipiscing elit</div>
+                    <div class="email-item">Email 3: Subject - Sed do eiusmod tempor incididunt</div>
+                </div>
+            </div>
+        
+            <div class="header-right">
+              <span class="material-icons-outlined" onclick="toggleAccountPanel()">account_circle</span>
+              <div class="dropdown" id="accountPanel">
+                  <div class="dropdown-content">
+                      <img src="tes/images/bgrevou.jpg" alt="Profile Picture" class="profile-picture">
+                      <a href="#">Profile</a>
+                      <a href="#">Settings</a>
+                      <a href="#">Logout</a>
+                  </div>
+              </div>
+            </div>
+      
+          </header>
+        <!-- End Header -->
+
+        <!-- Sidebar -->
+        <aside id="sidebar">
+            <div class="sidebar-title">
+              <div class="sidebar-brand">
+                <span class="material-icons-outlined">shopping_cart</span> STORE
+              </div>
+              <span class="material-icons-outlined" onclick="closeSidebar()">close</span>
+            </div>
+
+            <ul class="sidebar-list">
+                <ul class="sidebar-list">
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" data-page="../index.html" class="sidebar-link">
+                        <span class="material-icons-outlined">dashboard</span> Dashboard
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" data-page="../pages/product.html" class="sidebar-link" data-page="../pages/product.html">
+                        <span class="material-icons-outlined">inventory_2</span> Products
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" class="sidebar-link">
+                        <span class="material-icons-outlined">category</span> Categories
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" data-page="../pages/customers.html" class="sidebar-link">
+                        <span class="material-icons-outlined">groups</span> Customers
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" class="sidebar-link">
+                        <span class="material-icons-outlined">fact_check</span> Inventory
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" class="sidebar-link"><span class="material-icons-outlined">poll</span> Reports
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" data-page="../pages/settings.html" class="sidebar-link">
+                        <span class="material-icons-outlined">settings</span> Settings
+                      </a>
+                    </li>
+            </ul>
+        </aside>
+        <!-- End Sidebar -->
+
+        <!-- Main Content -->
+        <main class="main-container">
+            <div class="main-title">
+                <section class="section">
+                    <h2>Welcome to Coffe Shop</h2>
+                    <p>Welcome to Coffee Shop, where each cup of coffee is made with love and dedication. We are a local café committed to providing high-quality coffee brewed from select coffee beans.</p>
+                </section>
+                <section class="section">
+                    <h2>Our Story</h2>
+                    <p>At Coffee Shop, we believe that every cup of coffee has a story. We work directly with local coffee farmers to ensure that every coffee bean we use is the best. We not only offer a variety of coffees but also a warm and friendly experience for every customer.</p>
+                </section>
+                <section class="section">
+                    <h2>Our Commitment</h2>
+                    <p>We believe in the importance of sustainability and social responsibility. Therefore, we always strive to use environmentally friendly ingredients and support the local community.</p>
+                </section>
+            </div>
+            <!-- Isi halaman customers -->
+            <div class="customers-content">
+                <!-- Tambahkan konten terkait customers di sini -->
+            </div>
+        </main>
+        <!-- End Main Content -->
+    </div>
+
+    <!-- Custom JavaScript -->
+    <script src="../js/customers.js" ></script>
+</body>
+</html>

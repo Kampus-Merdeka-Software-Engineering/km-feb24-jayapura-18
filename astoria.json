@@ -1,0 +1,1268 @@
+[{
+  "total_price": "793.1500000000002",
+  "total_qty": "227",
+  "total_order": "161",
+  "aov": "3.4940528634361243",
+  "ts_date": "2023-01-08",
+  "location": "Astoria"
+}, {
+  "total_price": "1348.9299999999992",
+  "total_qty": "365",
+  "total_order": "262",
+  "aov": "3.6956986301369841",
+  "ts_date": "2023-01-15",
+  "location": "Astoria"
+}, {
+  "total_price": "871.43",
+  "total_qty": "215",
+  "total_order": "212",
+  "aov": "4.0531627906976739",
+  "ts_date": "2023-01-20",
+  "location": "Astoria"
+}, {
+  "total_price": "1254.9499999999982",
+  "total_qty": "375",
+  "total_order": "262",
+  "aov": "3.3465333333333285",
+  "ts_date": "2023-02-15",
+  "location": "Astoria"
+}, {
+  "total_price": "1191.2999999999995",
+  "total_qty": "341",
+  "total_order": "243",
+  "aov": "3.4935483870967725",
+  "ts_date": "2023-02-16",
+  "location": "Astoria"
+}, {
+  "total_price": "1164.3999999999996",
+  "total_qty": "342",
+  "total_order": "250",
+  "aov": "3.4046783625730983",
+  "ts_date": "2023-02-19",
+  "location": "Astoria"
+}, {
+  "total_price": "760.23",
+  "total_qty": "209",
+  "total_order": "205",
+  "aov": "3.637464114832536",
+  "ts_date": "2023-02-20",
+  "location": "Astoria"
+}, {
+  "total_price": "908.83",
+  "total_qty": "249",
+  "total_order": "199",
+  "aov": "3.6499196787148596",
+  "ts_date": "2023-03-09",
+  "location": "Astoria"
+}, {
+  "total_price": "1081.1999999999996",
+  "total_qty": "327",
+  "total_order": "230",
+  "aov": "3.3064220183486226",
+  "ts_date": "2023-03-10",
+  "location": "Astoria"
+}, {
+  "total_price": "995.25000000000011",
+  "total_qty": "295",
+  "total_order": "201",
+  "aov": "3.3737288135593224",
+  "ts_date": "2023-03-11",
+  "location": "Astoria"
+}, {
+  "total_price": "1417.4499999999987",
+  "total_qty": "398",
+  "total_order": "283",
+  "aov": "3.5614321608040167",
+  "ts_date": "2023-03-15",
+  "location": "Astoria"
+}, {
+  "total_price": "1149.1299999999997",
+  "total_qty": "359",
+  "total_order": "258",
+  "aov": "3.2009192200557095",
+  "ts_date": "2023-03-16",
+  "location": "Astoria"
+}, {
+  "total_price": "1440.4499999999985",
+  "total_qty": "408",
+  "total_order": "296",
+  "aov": "3.5305147058823492",
+  "ts_date": "2023-03-17",
+  "location": "Astoria"
+}, {
+  "total_price": "1488.4999999999984",
+  "total_qty": "392",
+  "total_order": "279",
+  "aov": "3.7971938775510163",
+  "ts_date": "2023-03-19",
+  "location": "Astoria"
+}, {
+  "total_price": "1113.0799999999997",
+  "total_qty": "285",
+  "total_order": "280",
+  "aov": "3.9055438596491219",
+  "ts_date": "2023-03-20",
+  "location": "Astoria"
+}, {
+  "total_price": "1192.1799999999996",
+  "total_qty": "320",
+  "total_order": "254",
+  "aov": "3.7255624999999988",
+  "ts_date": "2023-04-09",
+  "location": "Astoria"
+}, {
+  "total_price": "1622.659999999998",
+  "total_qty": "470",
+  "total_order": "326",
+  "aov": "3.4524680851063789",
+  "ts_date": "2023-04-15",
+  "location": "Astoria"
+}, {
+  "total_price": "1543.5999999999979",
+  "total_qty": "457",
+  "total_order": "315",
+  "aov": "3.3776805251641093",
+  "ts_date": "2023-04-17",
+  "location": "Astoria"
+}, {
+  "total_price": "1608.7899999999979",
+  "total_qty": "453",
+  "total_order": "322",
+  "aov": "3.5514128035320041",
+  "ts_date": "2023-04-18",
+  "location": "Astoria"
+}, {
+  "total_price": "1738.9299999999987",
+  "total_qty": "488",
+  "total_order": "349",
+  "aov": "3.5633811475409809",
+  "ts_date": "2023-04-19",
+  "location": "Astoria"
+}, {
+  "total_price": "1163.9499999999994",
+  "total_qty": "294",
+  "total_order": "289",
+  "aov": "3.9590136054421747",
+  "ts_date": "2023-04-20",
+  "location": "Astoria"
+}, {
+  "total_price": "1275.5999999999992",
+  "total_qty": "386",
+  "total_order": "277",
+  "aov": "3.3046632124352313",
+  "ts_date": "2023-04-30",
+  "location": "Astoria"
+}, {
+  "total_price": "1716.8999999999967",
+  "total_qty": "550",
+  "total_order": "380",
+  "aov": "3.1216363636363575",
+  "ts_date": "2023-05-10",
+  "location": "Astoria"
+}, {
+  "total_price": "2180.8799999999992",
+  "total_qty": "630",
+  "total_order": "447",
+  "aov": "3.4617142857142844",
+  "ts_date": "2023-05-15",
+  "location": "Astoria"
+}, {
+  "total_price": "2042.1499999999974",
+  "total_qty": "623",
+  "total_order": "450",
+  "aov": "3.2779293739967854",
+  "ts_date": "2023-05-16",
+  "location": "Astoria"
+}, {
+  "total_price": "1965.9399999999973",
+  "total_qty": "566",
+  "total_order": "397",
+  "aov": "3.4733922261484054",
+  "ts_date": "2023-05-18",
+  "location": "Astoria"
+}, {
+  "total_price": "2184.6999999999989",
+  "total_qty": "644",
+  "total_order": "448",
+  "aov": "3.3923913043478242",
+  "ts_date": "2023-05-19",
+  "location": "Astoria"
+}, {
+  "total_price": "1798.7299999999987",
+  "total_qty": "423",
+  "total_order": "416",
+  "aov": "4.252316784869973",
+  "ts_date": "2023-05-20",
+  "location": "Astoria"
+}, {
+  "total_price": "2168.6799999999994",
+  "total_qty": "574",
+  "total_order": "414",
+  "aov": "3.7781881533101034",
+  "ts_date": "2023-06-08",
+  "location": "Astoria"
+}, {
+  "total_price": "1518.4799999999991",
+  "total_qty": "433",
+  "total_order": "341",
+  "aov": "3.5068822170900673",
+  "ts_date": "2023-06-09",
+  "location": "Astoria"
+}, {
+  "total_price": "1749.4499999999966",
+  "total_qty": "538",
+  "total_order": "375",
+  "aov": "3.2517657992564994",
+  "ts_date": "2023-06-10",
+  "location": "Astoria"
+}, {
+  "total_price": "1703.6499999999971",
+  "total_qty": "524",
+  "total_order": "368",
+  "aov": "3.2512404580152618",
+  "ts_date": "2023-06-11",
+  "location": "Astoria"
+}, {
+  "total_price": "2373.2099999999991",
+  "total_qty": "661",
+  "total_order": "468",
+  "aov": "3.5903328290468974",
+  "ts_date": "2023-06-15",
+  "location": "Astoria"
+}, {
+  "total_price": "2229.7999999999979",
+  "total_qty": "679",
+  "total_order": "483",
+  "aov": "3.2839469808541941",
+  "ts_date": "2023-06-16",
+  "location": "Astoria"
+}, {
+  "total_price": "2044.8799999999978",
+  "total_qty": "605",
+  "total_order": "437",
+  "aov": "3.3799669421487568",
+  "ts_date": "2023-06-18",
+  "location": "Astoria"
+}, {
+  "total_price": "2546.4300000000012",
+  "total_qty": "688",
+  "total_order": "489",
+  "aov": "3.701206395348839",
+  "ts_date": "2023-06-19",
+  "location": "Astoria"
+}, {
+  "total_price": "1679.3799999999983",
+  "total_qty": "440",
+  "total_order": "434",
+  "aov": "3.8167727272727232",
+  "ts_date": "2023-06-20",
+  "location": "Astoria"
+}, {
+  "total_price": "1064.0299999999993",
+  "total_qty": "295",
+  "total_order": "214",
+  "aov": "3.606881355932201",
+  "ts_date": "2023-01-18",
+  "location": "Astoria"
+}, {
+  "total_price": "992.3499999999998",
+  "total_qty": "265",
+  "total_order": "183",
+  "aov": "3.7447169811320746",
+  "ts_date": "2023-01-21",
+  "location": "Astoria"
+}, {
+  "total_price": "870.6",
+  "total_qty": "242",
+  "total_order": "172",
+  "aov": "3.597520661157025",
+  "ts_date": "2023-01-30",
+  "location": "Astoria"
+}, {
+  "total_price": "747.05000000000007",
+  "total_qty": "210",
+  "total_order": "151",
+  "aov": "3.5573809523809525",
+  "ts_date": "2023-02-14",
+  "location": "Astoria"
+}, {
+  "total_price": "967.59999999999945",
+  "total_qty": "298",
+  "total_order": "214",
+  "aov": "3.2469798657718103",
+  "ts_date": "2023-02-17",
+  "location": "Astoria"
+}, {
+  "total_price": "664.12999999999965",
+  "total_qty": "202",
+  "total_order": "144",
+  "aov": "3.2877722772277211",
+  "ts_date": "2023-03-12",
+  "location": "Astoria"
+}, {
+  "total_price": "966.55000000000018",
+  "total_qty": "257",
+  "total_order": "183",
+  "aov": "3.7608949416342421",
+  "ts_date": "2023-03-14",
+  "location": "Astoria"
+}, {
+  "total_price": "1207.5799999999986",
+  "total_qty": "353",
+  "total_order": "260",
+  "aov": "3.4209065155807323",
+  "ts_date": "2023-03-18",
+  "location": "Astoria"
+}, {
+  "total_price": "1631.9299999999992",
+  "total_qty": "444",
+  "total_order": "316",
+  "aov": "3.6755180180180163",
+  "ts_date": "2023-04-08",
+  "location": "Astoria"
+}, {
+  "total_price": "1355.4499999999982",
+  "total_qty": "416",
+  "total_order": "288",
+  "aov": "3.2582932692307649",
+  "ts_date": "2023-04-10",
+  "location": "Astoria"
+}, {
+  "total_price": "958.62999999999977",
+  "total_qty": "287",
+  "total_order": "203",
+  "aov": "3.3401742160278736",
+  "ts_date": "2023-04-12",
+  "location": "Astoria"
+}, {
+  "total_price": "1195.8299999999997",
+  "total_qty": "322",
+  "total_order": "223",
+  "aov": "3.7137577639751544",
+  "ts_date": "2023-04-14",
+  "location": "Astoria"
+}, {
+  "total_price": "1482.0799999999981",
+  "total_qty": "451",
+  "total_order": "327",
+  "aov": "3.2862084257206168",
+  "ts_date": "2023-04-16",
+  "location": "Astoria"
+}, {
+  "total_price": "1101.8799999999997",
+  "total_qty": "305",
+  "total_order": "213",
+  "aov": "3.6127213114754086",
+  "ts_date": "2023-04-21",
+  "location": "Astoria"
+}, {
+  "total_price": "1967.6799999999996",
+  "total_qty": "546",
+  "total_order": "391",
+  "aov": "3.6038095238095229",
+  "ts_date": "2023-05-08",
+  "location": "Astoria"
+}, {
+  "total_price": "1362.1099999999988",
+  "total_qty": "387",
+  "total_order": "313",
+  "aov": "3.5196640826873353",
+  "ts_date": "2023-05-09",
+  "location": "Astoria"
+}, {
+  "total_price": "1175.079999999999",
+  "total_qty": "362",
+  "total_order": "254",
+  "aov": "3.2460773480662954",
+  "ts_date": "2023-05-12",
+  "location": "Astoria"
+}, {
+  "total_price": "1481.9999999999982",
+  "total_qty": "417",
+  "total_order": "293",
+  "aov": "3.5539568345323698",
+  "ts_date": "2023-05-14",
+  "location": "Astoria"
+}, {
+  "total_price": "1671.1099999999988",
+  "total_qty": "512",
+  "total_order": "367",
+  "aov": "3.2638867187499976",
+  "ts_date": "2023-05-31",
+  "location": "Astoria"
+}, {
+  "total_price": "1244.5999999999985",
+  "total_qty": "394",
+  "total_order": "273",
+  "aov": "3.1588832487309606",
+  "ts_date": "2023-06-12",
+  "location": "Astoria"
+}, {
+  "total_price": "1588.5499999999975",
+  "total_qty": "425",
+  "total_order": "303",
+  "aov": "3.7377647058823471",
+  "ts_date": "2023-06-14",
+  "location": "Astoria"
+}, {
+  "total_price": "1614.249999999998",
+  "total_qty": "438",
+  "total_order": "317",
+  "aov": "3.6855022831050182",
+  "ts_date": "2023-06-21",
+  "location": "Astoria"
+}, {
+  "total_price": "1079.379999999999",
+  "total_qty": "313",
+  "total_order": "220",
+  "aov": "3.4484984025559071",
+  "ts_date": "2023-01-19",
+  "location": "Astoria"
+}, {
+  "total_price": "801.49999999999989",
+  "total_qty": "219",
+  "total_order": "165",
+  "aov": "3.6598173515981731",
+  "ts_date": "2023-01-31",
+  "location": "Astoria"
+}, {
+  "total_price": "680.59999999999991",
+  "total_qty": "207",
+  "total_order": "142",
+  "aov": "3.2879227053140094",
+  "ts_date": "2023-02-12",
+  "location": "Astoria"
+}, {
+  "total_price": "1069.5299999999995",
+  "total_qty": "297",
+  "total_order": "202",
+  "aov": "3.6011111111111096",
+  "ts_date": "2023-02-18",
+  "location": "Astoria"
+}, {
+  "total_price": "870.48",
+  "total_qty": "238",
+  "total_order": "168",
+  "aov": "3.6574789915966388",
+  "ts_date": "2023-02-21",
+  "location": "Astoria"
+}, {
+  "total_price": "835.85",
+  "total_qty": "236",
+  "total_order": "171",
+  "aov": "3.5417372881355935",
+  "ts_date": "2023-03-21",
+  "location": "Astoria"
+}, {
+  "total_price": "1942.4999999999975",
+  "total_qty": "566",
+  "total_order": "398",
+  "aov": "3.431978798586568",
+  "ts_date": "2023-05-17",
+  "location": "Astoria"
+}, {
+  "total_price": "1568.7799999999982",
+  "total_qty": "418",
+  "total_order": "295",
+  "aov": "3.7530622009569332",
+  "ts_date": "2023-05-21",
+  "location": "Astoria"
+}, {
+  "total_price": "1670.9499999999982",
+  "total_qty": "539",
+  "total_order": "382",
+  "aov": "3.1000927643784753",
+  "ts_date": "2023-05-30",
+  "location": "Astoria"
+}, {
+  "total_price": "2072.6499999999987",
+  "total_qty": "618",
+  "total_order": "435",
+  "aov": "3.3538025889967615",
+  "ts_date": "2023-06-17",
+  "location": "Astoria"
+}, {
+  "total_price": "1807.649999999998",
+  "total_qty": "577",
+  "total_order": "404",
+  "aov": "3.1328422876949706",
+  "ts_date": "2023-06-30",
+  "location": "Astoria"
+}, {
+  "total_price": "774.01",
+  "total_qty": "208",
+  "total_order": "165",
+  "aov": "3.7212019230769231",
+  "ts_date": "2023-01-09",
+  "location": "Astoria"
+}, {
+  "total_price": "947.0",
+  "total_qty": "305",
+  "total_order": "210",
+  "aov": "3.1049180327868853",
+  "ts_date": "2023-01-10",
+  "location": "Astoria"
+}, {
+  "total_price": "660.7",
+  "total_qty": "206",
+  "total_order": "144",
+  "aov": "3.2072815533980585",
+  "ts_date": "2023-01-12",
+  "location": "Astoria"
+}, {
+  "total_price": "763.69999999999993",
+  "total_qty": "213",
+  "total_order": "157",
+  "aov": "3.585446009389671",
+  "ts_date": "2023-01-14",
+  "location": "Astoria"
+}, {
+  "total_price": "1075.3999999999996",
+  "total_qty": "297",
+  "total_order": "209",
+  "aov": "3.6208754208754197",
+  "ts_date": "2023-01-17",
+  "location": "Astoria"
+}, {
+  "total_price": "866.80000000000007",
+  "total_qty": "225",
+  "total_order": "182",
+  "aov": "3.8524444444444446",
+  "ts_date": "2023-02-09",
+  "location": "Astoria"
+}, {
+  "total_price": "1027.3299999999997",
+  "total_qty": "319",
+  "total_order": "229",
+  "aov": "3.2204702194357355",
+  "ts_date": "2023-01-16",
+  "location": "Astoria"
+}, {
+  "total_price": "928.79999999999984",
+  "total_qty": "263",
+  "total_order": "191",
+  "aov": "3.531558935361216",
+  "ts_date": "2023-02-08",
+  "location": "Astoria"
+}, {
+  "total_price": "868.00000000000011",
+  "total_qty": "297",
+  "total_order": "199",
+  "aov": "2.922558922558923",
+  "ts_date": "2023-02-10",
+  "location": "Astoria"
+}, {
+  "total_price": "915.15000000000009",
+  "total_qty": "292",
+  "total_order": "210",
+  "aov": "3.1340753424657537",
+  "ts_date": "2023-03-31",
+  "location": "Astoria"
+}, {
+  "total_price": "1294.9999999999986",
+  "total_qty": "411",
+  "total_order": "278",
+  "aov": "3.1508515815085123",
+  "ts_date": "2023-04-11",
+  "location": "Astoria"
+}, {
+  "total_price": "1209.08",
+  "total_qty": "332",
+  "total_order": "241",
+  "aov": "3.6418072289156624",
+  "ts_date": "2023-03-08",
+  "location": "Astoria"
+}, {
+  "total_price": "1394.9999999999984",
+  "total_qty": "443",
+  "total_order": "313",
+  "aov": "3.1489841986455946",
+  "ts_date": "2023-05-11",
+  "location": "Astoria"
+}, {
+  "total_price": "670.04999999999984",
+  "total_qty": "212",
+  "total_order": "155",
+  "aov": "3.1606132075471689",
+  "ts_date": "2023-02-11",
+  "location": "Astoria"
+}, {
+  "total_price": "967.05000000000041",
+  "total_qty": "307",
+  "total_order": "218",
+  "aov": "3.1500000000000012",
+  "ts_date": "2023-03-30",
+  "location": "Astoria"
+}, {
+  "total_price": "740.14999999999986",
+  "total_qty": "229",
+  "total_order": "162",
+  "aov": "3.2320960698689949",
+  "ts_date": "2023-01-11",
+  "location": "Astoria"
+}, {
+  "total_price": "868.4",
+  "total_qty": "277",
+  "total_order": "190",
+  "aov": "3.1350180505415159",
+  "ts_date": "2023-01-01",
+  "location": "Astoria"
+}, {
+  "total_price": "925.49999999999989",
+  "total_qty": "301",
+  "total_order": "212",
+  "aov": "3.0747508305647835",
+  "ts_date": "2023-01-02",
+  "location": "Astoria"
+}, {
+  "total_price": "902.75",
+  "total_qty": "287",
+  "total_order": "205",
+  "aov": "3.1454703832752613",
+  "ts_date": "2023-01-03",
+  "location": "Astoria"
+}, {
+  "total_price": "808.25000000000011",
+  "total_qty": "262",
+  "total_order": "187",
+  "aov": "3.084923664122138",
+  "ts_date": "2023-01-04",
+  "location": "Astoria"
+}, {
+  "total_price": "903.05",
+  "total_qty": "285",
+  "total_order": "198",
+  "aov": "3.16859649122807",
+  "ts_date": "2023-01-05",
+  "location": "Astoria"
+}, {
+  "total_price": "716.05000000000018",
+  "total_qty": "224",
+  "total_order": "152",
+  "aov": "3.1966517857142867",
+  "ts_date": "2023-01-06",
+  "location": "Astoria"
+}, {
+  "total_price": "807.30000000000007",
+  "total_qty": "257",
+  "total_order": "184",
+  "aov": "3.1412451361867708",
+  "ts_date": "2023-01-07",
+  "location": "Astoria"
+}, {
+  "total_price": "705.79999999999961",
+  "total_qty": "246",
+  "total_order": "175",
+  "aov": "2.8691056910569088",
+  "ts_date": "2023-01-13",
+  "location": "Astoria"
+}, {
+  "total_price": "742.8000000000003",
+  "total_qty": "240",
+  "total_order": "166",
+  "aov": "3.0950000000000011",
+  "ts_date": "2023-01-22",
+  "location": "Astoria"
+}, {
+  "total_price": "928.30000000000007",
+  "total_qty": "292",
+  "total_order": "202",
+  "aov": "3.1791095890410963",
+  "ts_date": "2023-01-23",
+  "location": "Astoria"
+}, {
+  "total_price": "922.05",
+  "total_qty": "292",
+  "total_order": "202",
+  "aov": "3.1577054794520545",
+  "ts_date": "2023-01-24",
+  "location": "Astoria"
+}, {
+  "total_price": "942.00000000000011",
+  "total_qty": "314",
+  "total_order": "216",
+  "aov": "3.0000000000000004",
+  "ts_date": "2023-01-25",
+  "location": "Astoria"
+}, {
+  "total_price": "939.25000000000034",
+  "total_qty": "308",
+  "total_order": "215",
+  "aov": "3.0495129870129882",
+  "ts_date": "2023-01-26",
+  "location": "Astoria"
+}, {
+  "total_price": "838.55000000000018",
+  "total_qty": "273",
+  "total_order": "192",
+  "aov": "3.0716117216117222",
+  "ts_date": "2023-01-27",
+  "location": "Astoria"
+}, {
+  "total_price": "733.25",
+  "total_qty": "244",
+  "total_order": "168",
+  "aov": "3.005122950819672",
+  "ts_date": "2023-01-28",
+  "location": "Astoria"
+}, {
+  "total_price": "820.70000000000027",
+  "total_qty": "261",
+  "total_order": "184",
+  "aov": "3.1444444444444457",
+  "ts_date": "2023-01-29",
+  "location": "Astoria"
+}, {
+  "total_price": "833.7",
+  "total_qty": "272",
+  "total_order": "188",
+  "aov": "3.065073529411765",
+  "ts_date": "2023-02-01",
+  "location": "Astoria"
+}, {
+  "total_price": "944.80000000000007",
+  "total_qty": "302",
+  "total_order": "210",
+  "aov": "3.1284768211920531",
+  "ts_date": "2023-02-02",
+  "location": "Astoria"
+}, {
+  "total_price": "940.20000000000016",
+  "total_qty": "301",
+  "total_order": "214",
+  "aov": "3.1235880398671103",
+  "ts_date": "2023-02-03",
+  "location": "Astoria"
+}, {
+  "total_price": "825.94999999999993",
+  "total_qty": "271",
+  "total_order": "191",
+  "aov": "3.0477859778597782",
+  "ts_date": "2023-02-04",
+  "location": "Astoria"
+}, {
+  "total_price": "871.24999999999989",
+  "total_qty": "283",
+  "total_order": "208",
+  "aov": "3.0786219081272082",
+  "ts_date": "2023-02-05",
+  "location": "Astoria"
+}, {
+  "total_price": "655.35",
+  "total_qty": "209",
+  "total_order": "139",
+  "aov": "3.135645933014354",
+  "ts_date": "2023-02-06",
+  "location": "Astoria"
+}, {
+  "total_price": "804.30000000000018",
+  "total_qty": "255",
+  "total_order": "185",
+  "aov": "3.1541176470588241",
+  "ts_date": "2023-02-07",
+  "location": "Astoria"
+}, {
+  "total_price": "1037.5000000000005",
+  "total_qty": "334",
+  "total_order": "214",
+  "aov": "3.1062874251497021",
+  "ts_date": "2023-02-22",
+  "location": "Astoria"
+}, {
+  "total_price": "904.5",
+  "total_qty": "283",
+  "total_order": "200",
+  "aov": "3.1961130742049471",
+  "ts_date": "2023-02-23",
+  "location": "Astoria"
+}, {
+  "total_price": "986.9",
+  "total_qty": "303",
+  "total_order": "213",
+  "aov": "3.2570957095709572",
+  "ts_date": "2023-02-24",
+  "location": "Astoria"
+}, {
+  "total_price": "813.55000000000007",
+  "total_qty": "266",
+  "total_order": "185",
+  "aov": "3.0584586466165415",
+  "ts_date": "2023-02-25",
+  "location": "Astoria"
+}, {
+  "total_price": "1030.9000000000005",
+  "total_qty": "337",
+  "total_order": "233",
+  "aov": "3.0590504451038592",
+  "ts_date": "2023-02-26",
+  "location": "Astoria"
+}, {
+  "total_price": "931.85000000000014",
+  "total_qty": "301",
+  "total_order": "208",
+  "aov": "3.0958471760797348",
+  "ts_date": "2023-02-27",
+  "location": "Astoria"
+}, {
+  "total_price": "842.9",
+  "total_qty": "275",
+  "total_order": "189",
+  "aov": "3.0650909090909089",
+  "ts_date": "2023-02-28",
+  "location": "Astoria"
+}, {
+  "total_price": "1021.1",
+  "total_qty": "328",
+  "total_order": "229",
+  "aov": "3.1131097560975611",
+  "ts_date": "2023-03-01",
+  "location": "Astoria"
+}, {
+  "total_price": "1088.3999999999999",
+  "total_qty": "352",
+  "total_order": "243",
+  "aov": "3.0920454545454543",
+  "ts_date": "2023-03-02",
+  "location": "Astoria"
+}, {
+  "total_price": "1160.35",
+  "total_qty": "371",
+  "total_order": "264",
+  "aov": "3.1276280323450134",
+  "ts_date": "2023-03-03",
+  "location": "Astoria"
+}, {
+  "total_price": "1008.7500000000001",
+  "total_qty": "328",
+  "total_order": "228",
+  "aov": "3.0754573170731709",
+  "ts_date": "2023-03-04",
+  "location": "Astoria"
+}, {
+  "total_price": "1097.1499999999996",
+  "total_qty": "355",
+  "total_order": "253",
+  "aov": "3.0905633802816892",
+  "ts_date": "2023-03-05",
+  "location": "Astoria"
+}, {
+  "total_price": "732.75000000000011",
+  "total_qty": "231",
+  "total_order": "169",
+  "aov": "3.1720779220779227",
+  "ts_date": "2023-03-06",
+  "location": "Astoria"
+}, {
+  "total_price": "921.30000000000018",
+  "total_qty": "293",
+  "total_order": "212",
+  "aov": "3.1443686006825944",
+  "ts_date": "2023-03-07",
+  "location": "Astoria"
+}, {
+  "total_price": "846.09999999999968",
+  "total_qty": "282",
+  "total_order": "199",
+  "aov": "3.0003546099290768",
+  "ts_date": "2023-03-13",
+  "location": "Astoria"
+}, {
+  "total_price": "1124.5500000000002",
+  "total_qty": "367",
+  "total_order": "252",
+  "aov": "3.064168937329701",
+  "ts_date": "2023-03-22",
+  "location": "Astoria"
+}, {
+  "total_price": "1060.5499999999997",
+  "total_qty": "328",
+  "total_order": "234",
+  "aov": "3.2333841463414625",
+  "ts_date": "2023-03-23",
+  "location": "Astoria"
+}, {
+  "total_price": "1123.2",
+  "total_qty": "355",
+  "total_order": "246",
+  "aov": "3.1639436619718313",
+  "ts_date": "2023-03-24",
+  "location": "Astoria"
+}, {
+  "total_price": "1025.7500000000002",
+  "total_qty": "337",
+  "total_order": "237",
+  "aov": "3.043768545994066",
+  "ts_date": "2023-03-25",
+  "location": "Astoria"
+}, {
+  "total_price": "1208.6500000000003",
+  "total_qty": "391",
+  "total_order": "268",
+  "aov": "3.0911764705882363",
+  "ts_date": "2023-03-26",
+  "location": "Astoria"
+}, {
+  "total_price": "1124.0",
+  "total_qty": "360",
+  "total_order": "249",
+  "aov": "3.1222222222222222",
+  "ts_date": "2023-03-27",
+  "location": "Astoria"
+}, {
+  "total_price": "954.75000000000023",
+  "total_qty": "312",
+  "total_order": "213",
+  "aov": "3.0600961538461546",
+  "ts_date": "2023-03-28",
+  "location": "Astoria"
+}, {
+  "total_price": "978.80000000000018",
+  "total_qty": "317",
+  "total_order": "231",
+  "aov": "3.0876971608832813",
+  "ts_date": "2023-03-29",
+  "location": "Astoria"
+}, {
+  "total_price": "1316.4999999999998",
+  "total_qty": "433",
+  "total_order": "302",
+  "aov": "3.04041570438799",
+  "ts_date": "2023-04-01",
+  "location": "Astoria"
+}, {
+  "total_price": "1351.35",
+  "total_qty": "430",
+  "total_order": "294",
+  "aov": "3.1426744186046509",
+  "ts_date": "2023-04-02",
+  "location": "Astoria"
+}, {
+  "total_price": "1333.4",
+  "total_qty": "429",
+  "total_order": "298",
+  "aov": "3.1081585081585086",
+  "ts_date": "2023-04-03",
+  "location": "Astoria"
+}, {
+  "total_price": "1150.75",
+  "total_qty": "371",
+  "total_order": "262",
+  "aov": "3.1017520215633425",
+  "ts_date": "2023-04-04",
+  "location": "Astoria"
+}, {
+  "total_price": "1242.1499999999999",
+  "total_qty": "400",
+  "total_order": "290",
+  "aov": "3.1053749999999996",
+  "ts_date": "2023-04-05",
+  "location": "Astoria"
+}, {
+  "total_price": "1002.9500000000004",
+  "total_qty": "318",
+  "total_order": "227",
+  "aov": "3.153930817610064",
+  "ts_date": "2023-04-06",
+  "location": "Astoria"
+}, {
+  "total_price": "1138.6",
+  "total_qty": "363",
+  "total_order": "262",
+  "aov": "3.1366391184573",
+  "ts_date": "2023-04-07",
+  "location": "Astoria"
+}, {
+  "total_price": "1069.6999999999989",
+  "total_qty": "353",
+  "total_order": "259",
+  "aov": "3.0303116147308753",
+  "ts_date": "2023-04-13",
+  "location": "Astoria"
+}, {
+  "total_price": "1291.9500000000003",
+  "total_qty": "414",
+  "total_order": "278",
+  "aov": "3.1206521739130442",
+  "ts_date": "2023-04-22",
+  "location": "Astoria"
+}, {
+  "total_price": "1384.0500000000002",
+  "total_qty": "428",
+  "total_order": "296",
+  "aov": "3.2337616822429909",
+  "ts_date": "2023-04-23",
+  "location": "Astoria"
+}, {
+  "total_price": "1539.799999999999",
+  "total_qty": "490",
+  "total_order": "347",
+  "aov": "3.1424489795918347",
+  "ts_date": "2023-04-24",
+  "location": "Astoria"
+}, {
+  "total_price": "1306.1",
+  "total_qty": "430",
+  "total_order": "301",
+  "aov": "3.0374418604651159",
+  "ts_date": "2023-04-25",
+  "location": "Astoria"
+}, {
+  "total_price": "1447.4999999999993",
+  "total_qty": "461",
+  "total_order": "321",
+  "aov": "3.13991323210412",
+  "ts_date": "2023-04-26",
+  "location": "Astoria"
+}, {
+  "total_price": "1439.5499999999997",
+  "total_qty": "461",
+  "total_order": "317",
+  "aov": "3.1226681127982641",
+  "ts_date": "2023-04-27",
+  "location": "Astoria"
+}, {
+  "total_price": "1172.7000000000003",
+  "total_qty": "386",
+  "total_order": "270",
+  "aov": "3.0380829015544046",
+  "ts_date": "2023-04-28",
+  "location": "Astoria"
+}, {
+  "total_price": "1124.0500000000002",
+  "total_qty": "355",
+  "total_order": "252",
+  "aov": "3.1663380281690148",
+  "ts_date": "2023-04-29",
+  "location": "Astoria"
+}, {
+  "total_price": "1657.6499999999992",
+  "total_qty": "533",
+  "total_order": "376",
+  "aov": "3.110037523452156",
+  "ts_date": "2023-05-01",
+  "location": "Astoria"
+}, {
+  "total_price": "1758.4499999999994",
+  "total_qty": "564",
+  "total_order": "393",
+  "aov": "3.1178191489361691",
+  "ts_date": "2023-05-02",
+  "location": "Astoria"
+}, {
+  "total_price": "1760.4499999999991",
+  "total_qty": "567",
+  "total_order": "402",
+  "aov": "3.10485008818342",
+  "ts_date": "2023-05-03",
+  "location": "Astoria"
+}, {
+  "total_price": "1709.8499999999988",
+  "total_qty": "547",
+  "total_order": "385",
+  "aov": "3.1258683729433252",
+  "ts_date": "2023-05-04",
+  "location": "Astoria"
+}, {
+  "total_price": "1726.6499999999994",
+  "total_qty": "554",
+  "total_order": "387",
+  "aov": "3.1166967509025261",
+  "ts_date": "2023-05-05",
+  "location": "Astoria"
+}, {
+  "total_price": "1293.0500000000004",
+  "total_qty": "414",
+  "total_order": "291",
+  "aov": "3.1233091787439622",
+  "ts_date": "2023-05-06",
+  "location": "Astoria"
+}, {
+  "total_price": "1416.6000000000001",
+  "total_qty": "452",
+  "total_order": "324",
+  "aov": "3.1340707964601773",
+  "ts_date": "2023-05-07",
+  "location": "Astoria"
+}, {
+  "total_price": "1299.8499999999985",
+  "total_qty": "439",
+  "total_order": "315",
+  "aov": "2.9609339407744844",
+  "ts_date": "2023-05-13",
+  "location": "Astoria"
+}, {
+  "total_price": "1773.149999999998",
+  "total_qty": "582",
+  "total_order": "390",
+  "aov": "3.0466494845360792",
+  "ts_date": "2023-05-22",
+  "location": "Astoria"
+}, {
+  "total_price": "1653.0999999999995",
+  "total_qty": "525",
+  "total_order": "359",
+  "aov": "3.1487619047619035",
+  "ts_date": "2023-05-23",
+  "location": "Astoria"
+}, {
+  "total_price": "1889.6499999999987",
+  "total_qty": "605",
+  "total_order": "422",
+  "aov": "3.123388429752064",
+  "ts_date": "2023-05-24",
+  "location": "Astoria"
+}, {
+  "total_price": "1628.1499999999994",
+  "total_qty": "528",
+  "total_order": "369",
+  "aov": "3.0836174242424232",
+  "ts_date": "2023-05-25",
+  "location": "Astoria"
+}, {
+  "total_price": "1826.6499999999994",
+  "total_qty": "591",
+  "total_order": "409",
+  "aov": "3.0907783417935693",
+  "ts_date": "2023-05-26",
+  "location": "Astoria"
+}, {
+  "total_price": "1661.0499999999988",
+  "total_qty": "540",
+  "total_order": "374",
+  "aov": "3.0760185185185165",
+  "ts_date": "2023-05-27",
+  "location": "Astoria"
+}, {
+  "total_price": "1612.8499999999992",
+  "total_qty": "531",
+  "total_order": "372",
+  "aov": "3.0373822975517877",
+  "ts_date": "2023-05-28",
+  "location": "Astoria"
+}, {
+  "total_price": "1637.0999999999995",
+  "total_qty": "516",
+  "total_order": "363",
+  "aov": "3.1726744186046503",
+  "ts_date": "2023-05-29",
+  "location": "Astoria"
+}, {
+  "total_price": "1794.8499999999988",
+  "total_qty": "583",
+  "total_order": "408",
+  "aov": "3.0786449399656926",
+  "ts_date": "2023-06-01",
+  "location": "Astoria"
+}, {
+  "total_price": "1915.4499999999989",
+  "total_qty": "622",
+  "total_order": "432",
+  "aov": "3.07950160771704",
+  "ts_date": "2023-06-02",
+  "location": "Astoria"
+}, {
+  "total_price": "1953.4999999999986",
+  "total_qty": "616",
+  "total_order": "439",
+  "aov": "3.1712662337662314",
+  "ts_date": "2023-06-03",
+  "location": "Astoria"
+}, {
+  "total_price": "1760.8999999999985",
+  "total_qty": "572",
+  "total_order": "400",
+  "aov": "3.0784965034965008",
+  "ts_date": "2023-06-04",
+  "location": "Astoria"
+}, {
+  "total_price": "1842.4499999999989",
+  "total_qty": "595",
+  "total_order": "416",
+  "aov": "3.0965546218487376",
+  "ts_date": "2023-06-05",
+  "location": "Astoria"
+}, {
+  "total_price": "1397.1000000000004",
+  "total_qty": "446",
+  "total_order": "313",
+  "aov": "3.1325112107623325",
+  "ts_date": "2023-06-06",
+  "location": "Astoria"
+}, {
+  "total_price": "1555.5499999999993",
+  "total_qty": "494",
+  "total_order": "355",
+  "aov": "3.1488866396761117",
+  "ts_date": "2023-06-07",
+  "location": "Astoria"
+}, {
+  "total_price": "1439.4499999999985",
+  "total_qty": "480",
+  "total_order": "341",
+  "aov": "2.9988541666666633",
+  "ts_date": "2023-06-13",
+  "location": "Astoria"
+}, {
+  "total_price": "1912.0499999999986",
+  "total_qty": "613",
+  "total_order": "407",
+  "aov": "3.1191680261011396",
+  "ts_date": "2023-06-22",
+  "location": "Astoria"
+}, {
+  "total_price": "1864.399999999999",
+  "total_qty": "594",
+  "total_order": "409",
+  "aov": "3.1387205387205368",
+  "ts_date": "2023-06-23",
+  "location": "Astoria"
+}, {
+  "total_price": "2117.5499999999993",
+  "total_qty": "678",
+  "total_order": "472",
+  "aov": "3.1232300884955739",
+  "ts_date": "2023-06-24",
+  "location": "Astoria"
+}, {
+  "total_price": "1740.6999999999996",
+  "total_qty": "568",
+  "total_order": "396",
+  "aov": "3.0646126760563375",
+  "ts_date": "2023-06-25",
+  "location": "Astoria"
+}, {
+  "total_price": "1975.0999999999997",
+  "total_qty": "635",
+  "total_order": "432",
+  "aov": "3.1103937007874012",
+  "ts_date": "2023-06-26",
+  "location": "Astoria"
+}, {
+  "total_price": "1861.5499999999988",
+  "total_qty": "598",
+  "total_order": "421",
+  "aov": "3.1129598662207338",
+  "ts_date": "2023-06-27",
+  "location": "Astoria"
+}, {
+  "total_price": "1758.1",
+  "total_qty": "580",
+  "total_order": "393",
+  "aov": "3.031206896551724",
+  "ts_date": "2023-06-28",
+  "location": "Astoria"
+}, {
+  "total_price": "1852.7499999999991",
+  "total_qty": "585",
+  "total_order": "410",
+  "aov": "3.1670940170940156",
+  "ts_date": "2023-06-29",
+  "location": "Astoria"
+}, {
+  "total_price": "641.89999999999986",
+  "total_qty": "212",
+  "total_order": "149",
+  "aov": "3.0278301886792445",
+  "ts_date": "2023-02-13",
+  "location": "Astoria"
+}]

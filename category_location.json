@@ -1,0 +1,163 @@
+[{
+  "total_qty": "502",
+  "total_order": "502",
+  "aov": "20.35697211155377",
+  "category": "Coffee beans",
+  "location": "Astoria"
+}, {
+  "total_qty": "344",
+  "total_order": "344",
+  "aov": "9.284883720930214",
+  "category": "Loose Tea",
+  "location": "Astoria"
+}, {
+  "total_qty": "110",
+  "total_order": "110",
+  "aov": "9.90645454545456",
+  "category": "Packaged Chocolate",
+  "location": "Astoria"
+}, {
+  "total_qty": "29655",
+  "total_order": "20025",
+  "aov": "3.0262788737142552",
+  "category": "Coffee",
+  "location": "Astoria"
+}, {
+  "total_qty": "24048",
+  "total_order": "16260",
+  "aov": "2.8210204590818462",
+  "category": "Tea",
+  "location": "Astoria"
+}, {
+  "total_qty": "6351",
+  "total_order": "4300",
+  "aov": "4.1466304518973391",
+  "category": "Drinking Chocolate",
+  "location": "Astoria"
+}, {
+  "total_qty": "2206",
+  "total_order": "1490",
+  "aov": "0.7999999999999805",
+  "category": "Flavours",
+  "location": "Astoria"
+}, {
+  "total_qty": "7496",
+  "total_order": "7289",
+  "aov": "3.5485258804695836",
+  "category": "Bakery",
+  "location": "Astoria"
+}, {
+  "total_qty": "279",
+  "total_order": "279",
+  "aov": "19.559139784946236",
+  "category": "Branded",
+  "location": "Astoria"
+}, {
+  "total_qty": "790",
+  "total_order": "720",
+  "aov": "23.588734177215173",
+  "category": "Coffee beans",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "485",
+  "total_order": "485",
+  "aov": "9.1986597938143948",
+  "category": "Loose Tea",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "197",
+  "total_order": "197",
+  "aov": "8.6231979695431349",
+  "category": "Packaged Chocolate",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "30220",
+  "total_order": "20187",
+  "aov": "3.0186184645929712",
+  "category": "Coffee",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "22980",
+  "total_order": "15277",
+  "aov": "2.8155483028720076",
+  "category": "Tea",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "5672",
+  "total_order": "3763",
+  "aov": "4.1583656558533146",
+  "category": "Drinking Chocolate",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "3596",
+  "total_order": "2370",
+  "aov": "0.79999999999999194",
+  "category": "Flavours",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "7678",
+  "total_order": "7617",
+  "aov": "3.5669380046887196",
+  "category": "Bakery",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "119",
+  "total_order": "119",
+  "aov": "16.319327731092436",
+  "category": "Branded",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "536",
+  "total_order": "531",
+  "aov": "20.953264925373123",
+  "category": "Coffee beans",
+  "location": "Lower Manhattan"
+}, {
+  "total_qty": "381",
+  "total_order": "381",
+  "aov": "9.3392388451443242",
+  "category": "Loose Tea",
+  "location": "Lower Manhattan"
+}, {
+  "total_qty": "180",
+  "total_order": "180",
+  "aov": "8.99533333333333",
+  "category": "Packaged Chocolate",
+  "location": "Lower Manhattan"
+}, {
+  "total_qty": "29375",
+  "total_order": "18204",
+  "aov": "3.0292936170212164",
+  "category": "Coffee",
+  "location": "Lower Manhattan"
+}, {
+  "total_qty": "22709",
+  "total_order": "13912",
+  "aov": "2.8123100973181985",
+  "category": "Tea",
+  "location": "Lower Manhattan"
+}, {
+  "total_qty": "5434",
+  "total_order": "3405",
+  "aov": "4.1395841001104161",
+  "category": "Drinking Chocolate",
+  "location": "Lower Manhattan"
+}, {
+  "total_qty": "4709",
+  "total_order": "2930",
+  "aov": "0.79999999999999571",
+  "category": "Flavours",
+  "location": "Lower Manhattan"
+}, {
+  "total_qty": "8040",
+  "total_order": "7890",
+  "aov": "3.5234999999999856",
+  "category": "Bakery",
+  "location": "Lower Manhattan"
+}, {
+  "total_qty": "378",
+  "total_order": "349",
+  "aov": "16.423280423280424",
+  "category": "Branded",
+  "location": "Lower Manhattan"
+}]
