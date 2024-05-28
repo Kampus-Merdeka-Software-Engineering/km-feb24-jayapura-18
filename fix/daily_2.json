@@ -1,0 +1,3802 @@
+[{
+  "total_price": "868.4",
+  "total_qty": "277",
+  "total_order": "190",
+  "aov": "3.1350180505415159",
+  "ts_date": "2023-01-01",
+  "location": "Astoria"
+}, {
+  "total_price": "851.44999999999993",
+  "total_qty": "270",
+  "total_order": "184",
+  "aov": "3.1535185185185184",
+  "ts_date": "2023-01-01",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "788.35000000000014",
+  "total_qty": "255",
+  "total_order": "176",
+  "aov": "3.091568627450981",
+  "ts_date": "2023-01-01",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "925.49999999999989",
+  "total_qty": "301",
+  "total_order": "212",
+  "aov": "3.0747508305647835",
+  "ts_date": "2023-01-02",
+  "location": "Astoria"
+}, {
+  "total_price": "828.80000000000007",
+  "total_qty": "272",
+  "total_order": "195",
+  "aov": "3.047058823529412",
+  "ts_date": "2023-01-02",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "649.05000000000007",
+  "total_qty": "217",
+  "total_order": "159",
+  "aov": "2.9910138248847931",
+  "ts_date": "2023-01-02",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "902.75",
+  "total_qty": "287",
+  "total_order": "205",
+  "aov": "3.1454703832752613",
+  "ts_date": "2023-01-03",
+  "location": "Astoria"
+}, {
+  "total_price": "906.24999999999977",
+  "total_qty": "295",
+  "total_order": "211",
+  "aov": "3.0720338983050839",
+  "ts_date": "2023-01-03",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "756.0",
+  "total_qty": "241",
+  "total_order": "166",
+  "aov": "3.1369294605809128",
+  "ts_date": "2023-01-03",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "808.25000000000011",
+  "total_qty": "262",
+  "total_order": "187",
+  "aov": "3.084923664122138",
+  "ts_date": "2023-01-04",
+  "location": "Astoria"
+}, {
+  "total_price": "781.65000000000009",
+  "total_qty": "256",
+  "total_order": "170",
+  "aov": "3.0533203125000004",
+  "ts_date": "2023-01-04",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "630.2",
+  "total_qty": "208",
+  "total_order": "140",
+  "aov": "3.0298076923076924",
+  "ts_date": "2023-01-04",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "903.05",
+  "total_qty": "285",
+  "total_order": "198",
+  "aov": "3.16859649122807",
+  "ts_date": "2023-01-05",
+  "location": "Astoria"
+}, {
+  "total_price": "714.89999999999986",
+  "total_qty": "235",
+  "total_order": "168",
+  "aov": "3.0421276595744673",
+  "ts_date": "2023-01-05",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "800.90000000000009",
+  "total_qty": "258",
+  "total_order": "181",
+  "aov": "3.1042635658914732",
+  "ts_date": "2023-01-05",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "716.05000000000018",
+  "total_qty": "224",
+  "total_order": "152",
+  "aov": "3.1966517857142867",
+  "ts_date": "2023-01-06",
+  "location": "Astoria"
+}, {
+  "total_price": "767.19999999999982",
+  "total_qty": "256",
+  "total_order": "176",
+  "aov": "2.9968749999999993",
+  "ts_date": "2023-01-06",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "790.59999999999991",
+  "total_qty": "256",
+  "total_order": "181",
+  "aov": "3.0882812499999996",
+  "ts_date": "2023-01-06",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "807.30000000000007",
+  "total_qty": "257",
+  "total_order": "184",
+  "aov": "3.1412451361867708",
+  "ts_date": "2023-01-07",
+  "location": "Astoria"
+}, {
+  "total_price": "1024.0999999999997",
+  "total_qty": "323",
+  "total_order": "222",
+  "aov": "3.1705882352941166",
+  "ts_date": "2023-01-07",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "788.24999999999989",
+  "total_qty": "219",
+  "total_order": "156",
+  "aov": "3.59931506849315",
+  "ts_date": "2023-01-07",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "793.1500000000002",
+  "total_qty": "227",
+  "total_order": "161",
+  "aov": "3.4940528634361243",
+  "ts_date": "2023-01-08",
+  "location": "Astoria"
+}, {
+  "total_price": "872.82999999999981",
+  "total_qty": "277",
+  "total_order": "196",
+  "aov": "3.1510108303249091",
+  "ts_date": "2023-01-08",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "972.55000000000007",
+  "total_qty": "302",
+  "total_order": "205",
+  "aov": "3.2203642384105962",
+  "ts_date": "2023-01-08",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "774.01",
+  "total_qty": "208",
+  "total_order": "165",
+  "aov": "3.7212019230769231",
+  "ts_date": "2023-01-09",
+  "location": "Astoria"
+}, {
+  "total_price": "894.39999999999986",
+  "total_qty": "272",
+  "total_order": "194",
+  "aov": "3.2882352941176465",
+  "ts_date": "2023-01-09",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1008.2",
+  "total_qty": "262",
+  "total_order": "192",
+  "aov": "3.8480916030534353",
+  "ts_date": "2023-01-09",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "947.0",
+  "total_qty": "305",
+  "total_order": "210",
+  "aov": "3.1049180327868853",
+  "ts_date": "2023-01-10",
+  "location": "Astoria"
+}, {
+  "total_price": "808.10000000000014",
+  "total_qty": "273",
+  "total_order": "189",
+  "aov": "2.9600732600732607",
+  "ts_date": "2023-01-10",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "930.54999999999984",
+  "total_qty": "277",
+  "total_order": "203",
+  "aov": "3.359386281588447",
+  "ts_date": "2023-01-10",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "740.14999999999986",
+  "total_qty": "229",
+  "total_order": "162",
+  "aov": "3.2320960698689949",
+  "ts_date": "2023-01-11",
+  "location": "Astoria"
+}, {
+  "total_price": "974.54999999999984",
+  "total_qty": "295",
+  "total_order": "212",
+  "aov": "3.3035593220338977",
+  "ts_date": "2023-01-11",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "841.05",
+  "total_qty": "258",
+  "total_order": "187",
+  "aov": "3.2598837209302323",
+  "ts_date": "2023-01-11",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "660.7",
+  "total_qty": "206",
+  "total_order": "144",
+  "aov": "3.2072815533980585",
+  "ts_date": "2023-01-12",
+  "location": "Astoria"
+}, {
+  "total_price": "751.9000000000002",
+  "total_qty": "251",
+  "total_order": "179",
+  "aov": "2.9956175298804788",
+  "ts_date": "2023-01-12",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "915.1",
+  "total_qty": "302",
+  "total_order": "211",
+  "aov": "3.0301324503311258",
+  "ts_date": "2023-01-12",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "705.79999999999961",
+  "total_qty": "246",
+  "total_order": "175",
+  "aov": "2.8691056910569088",
+  "ts_date": "2023-01-13",
+  "location": "Astoria"
+}, {
+  "total_price": "1362.5999999999983",
+  "total_qty": "409",
+  "total_order": "257",
+  "aov": "3.3315403422982843",
+  "ts_date": "2023-01-13",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "965.2",
+  "total_qty": "295",
+  "total_order": "193",
+  "aov": "3.2718644067796609",
+  "ts_date": "2023-01-13",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "763.69999999999993",
+  "total_qty": "213",
+  "total_order": "157",
+  "aov": "3.585446009389671",
+  "ts_date": "2023-01-14",
+  "location": "Astoria"
+}, {
+  "total_price": "1143.8099999999995",
+  "total_qty": "326",
+  "total_order": "241",
+  "aov": "3.5086196319018388",
+  "ts_date": "2023-01-14",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "775.00000000000023",
+  "total_qty": "232",
+  "total_order": "179",
+  "aov": "3.3405172413793114",
+  "ts_date": "2023-01-14",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1348.9299999999992",
+  "total_qty": "365",
+  "total_order": "262",
+  "aov": "3.6956986301369841",
+  "ts_date": "2023-01-15",
+  "location": "Astoria"
+}, {
+  "total_price": "962.43000000000029",
+  "total_qty": "280",
+  "total_order": "202",
+  "aov": "3.437250000000001",
+  "ts_date": "2023-01-15",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "856.35000000000014",
+  "total_qty": "282",
+  "total_order": "199",
+  "aov": "3.0367021276595749",
+  "ts_date": "2023-01-15",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1027.3299999999997",
+  "total_qty": "319",
+  "total_order": "229",
+  "aov": "3.2204702194357355",
+  "ts_date": "2023-01-16",
+  "location": "Astoria"
+}, {
+  "total_price": "951.15",
+  "total_qty": "277",
+  "total_order": "206",
+  "aov": "3.433754512635379",
+  "ts_date": "2023-01-16",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "850.67999999999972",
+  "total_qty": "259",
+  "total_order": "192",
+  "aov": "3.2844787644787634",
+  "ts_date": "2023-01-16",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1075.3999999999996",
+  "total_qty": "297",
+  "total_order": "209",
+  "aov": "3.6208754208754197",
+  "ts_date": "2023-01-17",
+  "location": "Astoria"
+}, {
+  "total_price": "1421.4999999999991",
+  "total_qty": "214",
+  "total_order": "138",
+  "aov": "6.6425233644859771",
+  "ts_date": "2023-01-17",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "788.90000000000009",
+  "total_qty": "251",
+  "total_order": "185",
+  "aov": "3.1430278884462157",
+  "ts_date": "2023-01-17",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1064.0299999999993",
+  "total_qty": "295",
+  "total_order": "214",
+  "aov": "3.606881355932201",
+  "ts_date": "2023-01-18",
+  "location": "Astoria"
+}, {
+  "total_price": "846.1",
+  "total_qty": "263",
+  "total_order": "188",
+  "aov": "3.217110266159696",
+  "ts_date": "2023-01-18",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "825.83000000000015",
+  "total_qty": "269",
+  "total_order": "186",
+  "aov": "3.0700000000000007",
+  "ts_date": "2023-01-18",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1079.379999999999",
+  "total_qty": "313",
+  "total_order": "220",
+  "aov": "3.4484984025559071",
+  "ts_date": "2023-01-19",
+  "location": "Astoria"
+}, {
+  "total_price": "1046.2499999999991",
+  "total_qty": "293",
+  "total_order": "212",
+  "aov": "3.5708191126279831",
+  "ts_date": "2023-01-19",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "788.04999999999984",
+  "total_qty": "252",
+  "total_order": "184",
+  "aov": "3.127182539682539",
+  "ts_date": "2023-01-19",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "871.43",
+  "total_qty": "215",
+  "total_order": "212",
+  "aov": "4.0531627906976739",
+  "ts_date": "2023-01-20",
+  "location": "Astoria"
+}, {
+  "total_price": "940.74999999999977",
+  "total_qty": "284",
+  "total_order": "198",
+  "aov": "3.3124999999999991",
+  "ts_date": "2023-01-20",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "791.55",
+  "total_qty": "268",
+  "total_order": "168",
+  "aov": "2.9535447761194029",
+  "ts_date": "2023-01-20",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "992.3499999999998",
+  "total_qty": "265",
+  "total_order": "183",
+  "aov": "3.7447169811320746",
+  "ts_date": "2023-01-21",
+  "location": "Astoria"
+}, {
+  "total_price": "1075.4999999999993",
+  "total_qty": "318",
+  "total_order": "233",
+  "aov": "3.3820754716981112",
+  "ts_date": "2023-01-21",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1014.9999999999997",
+  "total_qty": "295",
+  "total_order": "181",
+  "aov": "3.4406779661016937",
+  "ts_date": "2023-01-21",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "742.8000000000003",
+  "total_qty": "240",
+  "total_order": "166",
+  "aov": "3.0950000000000011",
+  "ts_date": "2023-01-22",
+  "location": "Astoria"
+}, {
+  "total_price": "621.45000000000016",
+  "total_qty": "196",
+  "total_order": "139",
+  "aov": "3.1706632653061231",
+  "ts_date": "2023-01-22",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1003.0799999999997",
+  "total_qty": "332",
+  "total_order": "186",
+  "aov": "3.0213253012048185",
+  "ts_date": "2023-01-22",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "928.30000000000007",
+  "total_qty": "292",
+  "total_order": "202",
+  "aov": "3.1791095890410963",
+  "ts_date": "2023-01-23",
+  "location": "Astoria"
+}, {
+  "total_price": "1026.1000000000001",
+  "total_qty": "304",
+  "total_order": "217",
+  "aov": "3.3753289473684216",
+  "ts_date": "2023-01-23",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "898.74999999999989",
+  "total_qty": "289",
+  "total_order": "170",
+  "aov": "3.1098615916955015",
+  "ts_date": "2023-01-23",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "922.05",
+  "total_qty": "292",
+  "total_order": "202",
+  "aov": "3.1577054794520545",
+  "ts_date": "2023-01-24",
+  "location": "Astoria"
+}, {
+  "total_price": "841.1",
+  "total_qty": "242",
+  "total_order": "173",
+  "aov": "3.4756198347107441",
+  "ts_date": "2023-01-24",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1105.799999999999",
+  "total_qty": "349",
+  "total_order": "213",
+  "aov": "3.1684813753581635",
+  "ts_date": "2023-01-24",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "942.00000000000011",
+  "total_qty": "314",
+  "total_order": "216",
+  "aov": "3.0000000000000004",
+  "ts_date": "2023-01-25",
+  "location": "Astoria"
+}, {
+  "total_price": "840.70000000000027",
+  "total_qty": "258",
+  "total_order": "180",
+  "aov": "3.2585271317829467",
+  "ts_date": "2023-01-25",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1063.8499999999995",
+  "total_qty": "334",
+  "total_order": "187",
+  "aov": "3.1851796407185611",
+  "ts_date": "2023-01-25",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "939.25000000000034",
+  "total_qty": "308",
+  "total_order": "215",
+  "aov": "3.0495129870129882",
+  "ts_date": "2023-01-26",
+  "location": "Astoria"
+}, {
+  "total_price": "856.43000000000006",
+  "total_qty": "255",
+  "total_order": "185",
+  "aov": "3.3585490196078434",
+  "ts_date": "2023-01-26",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1067.3499999999997",
+  "total_qty": "324",
+  "total_order": "186",
+  "aov": "3.294290123456789",
+  "ts_date": "2023-01-26",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "838.55000000000018",
+  "total_qty": "273",
+  "total_order": "192",
+  "aov": "3.0716117216117222",
+  "ts_date": "2023-01-27",
+  "location": "Astoria"
+}, {
+  "total_price": "760.05000000000041",
+  "total_qty": "264",
+  "total_order": "181",
+  "aov": "2.8789772727272744",
+  "ts_date": "2023-01-27",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1143.4999999999995",
+  "total_qty": "349",
+  "total_order": "206",
+  "aov": "3.276504297994268",
+  "ts_date": "2023-01-27",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "733.25",
+  "total_qty": "244",
+  "total_order": "168",
+  "aov": "3.005122950819672",
+  "ts_date": "2023-01-28",
+  "location": "Astoria"
+}, {
+  "total_price": "699.65000000000009",
+  "total_qty": "227",
+  "total_order": "162",
+  "aov": "3.0821585903083704",
+  "ts_date": "2023-01-28",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "604.20000000000016",
+  "total_qty": "201",
+  "total_order": "140",
+  "aov": "3.0059701492537321",
+  "ts_date": "2023-01-28",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "820.70000000000027",
+  "total_qty": "261",
+  "total_order": "184",
+  "aov": "3.1444444444444457",
+  "ts_date": "2023-01-29",
+  "location": "Astoria"
+}, {
+  "total_price": "612.15000000000032",
+  "total_qty": "195",
+  "total_order": "135",
+  "aov": "3.139230769230771",
+  "ts_date": "2023-01-29",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "627.9",
+  "total_qty": "196",
+  "total_order": "140",
+  "aov": "3.2035714285714283",
+  "ts_date": "2023-01-29",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "870.6",
+  "total_qty": "242",
+  "total_order": "172",
+  "aov": "3.597520661157025",
+  "ts_date": "2023-01-30",
+  "location": "Astoria"
+}, {
+  "total_price": "868.39999999999986",
+  "total_qty": "242",
+  "total_order": "166",
+  "aov": "3.5884297520661153",
+  "ts_date": "2023-01-30",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "737.4100000000002",
+  "total_qty": "209",
+  "total_order": "143",
+  "aov": "3.5282775119617233",
+  "ts_date": "2023-01-30",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "801.49999999999989",
+  "total_qty": "219",
+  "total_order": "165",
+  "aov": "3.6598173515981731",
+  "ts_date": "2023-01-31",
+  "location": "Astoria"
+}, {
+  "total_price": "768.40000000000009",
+  "total_qty": "218",
+  "total_order": "159",
+  "aov": "3.5247706422018354",
+  "ts_date": "2023-01-31",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "764.23",
+  "total_qty": "208",
+  "total_order": "138",
+  "aov": "3.6741826923076926",
+  "ts_date": "2023-01-31",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "833.7",
+  "total_qty": "272",
+  "total_order": "188",
+  "aov": "3.065073529411765",
+  "ts_date": "2023-02-01",
+  "location": "Astoria"
+}, {
+  "total_price": "849.4",
+  "total_qty": "269",
+  "total_order": "179",
+  "aov": "3.1576208178438661",
+  "ts_date": "2023-02-01",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "783.2",
+  "total_qty": "255",
+  "total_order": "179",
+  "aov": "3.0713725490196082",
+  "ts_date": "2023-02-01",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "944.80000000000007",
+  "total_qty": "302",
+  "total_order": "210",
+  "aov": "3.1284768211920531",
+  "ts_date": "2023-02-02",
+  "location": "Astoria"
+}, {
+  "total_price": "883.94999999999993",
+  "total_qty": "287",
+  "total_order": "200",
+  "aov": "3.0799651567944251",
+  "ts_date": "2023-02-02",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "678.15000000000009",
+  "total_qty": "225",
+  "total_order": "159",
+  "aov": "3.0140000000000002",
+  "ts_date": "2023-02-02",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "940.20000000000016",
+  "total_qty": "301",
+  "total_order": "214",
+  "aov": "3.1235880398671103",
+  "ts_date": "2023-02-03",
+  "location": "Astoria"
+}, {
+  "total_price": "896.0",
+  "total_qty": "291",
+  "total_order": "202",
+  "aov": "3.0790378006872854",
+  "ts_date": "2023-02-03",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "755.25",
+  "total_qty": "242",
+  "total_order": "170",
+  "aov": "3.1208677685950414",
+  "ts_date": "2023-02-03",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "825.94999999999993",
+  "total_qty": "271",
+  "total_order": "191",
+  "aov": "3.0477859778597782",
+  "ts_date": "2023-02-04",
+  "location": "Astoria"
+}, {
+  "total_price": "844.65",
+  "total_qty": "278",
+  "total_order": "200",
+  "aov": "3.0383093525179854",
+  "ts_date": "2023-02-04",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "881.10000000000025",
+  "total_qty": "285",
+  "total_order": "193",
+  "aov": "3.0915789473684221",
+  "ts_date": "2023-02-04",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "871.24999999999989",
+  "total_qty": "283",
+  "total_order": "208",
+  "aov": "3.0786219081272082",
+  "ts_date": "2023-02-05",
+  "location": "Astoria"
+}, {
+  "total_price": "709.35",
+  "total_qty": "233",
+  "total_order": "161",
+  "aov": "3.0444206008583694",
+  "ts_date": "2023-02-05",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "724.1",
+  "total_qty": "232",
+  "total_order": "164",
+  "aov": "3.1211206896551724",
+  "ts_date": "2023-02-05",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "655.35",
+  "total_qty": "209",
+  "total_order": "139",
+  "aov": "3.135645933014354",
+  "ts_date": "2023-02-06",
+  "location": "Astoria"
+}, {
+  "total_price": "796.15000000000009",
+  "total_qty": "264",
+  "total_order": "182",
+  "aov": "3.0157196969696973",
+  "ts_date": "2023-02-06",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "751.90000000000009",
+  "total_qty": "239",
+  "total_order": "168",
+  "aov": "3.1460251046025109",
+  "ts_date": "2023-02-06",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "804.30000000000018",
+  "total_qty": "255",
+  "total_order": "185",
+  "aov": "3.1541176470588241",
+  "ts_date": "2023-02-07",
+  "location": "Astoria"
+}, {
+  "total_price": "893.24999999999989",
+  "total_qty": "292",
+  "total_order": "203",
+  "aov": "3.0590753424657531",
+  "ts_date": "2023-02-07",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "736.99999999999989",
+  "total_qty": "222",
+  "total_order": "158",
+  "aov": "3.3198198198198194",
+  "ts_date": "2023-02-07",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "928.79999999999984",
+  "total_qty": "263",
+  "total_order": "191",
+  "aov": "3.531558935361216",
+  "ts_date": "2023-02-08",
+  "location": "Astoria"
+}, {
+  "total_price": "949.93",
+  "total_qty": "298",
+  "total_order": "209",
+  "aov": "3.1876845637583893",
+  "ts_date": "2023-02-08",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "883.69999999999993",
+  "total_qty": "283",
+  "total_order": "199",
+  "aov": "3.122614840989399",
+  "ts_date": "2023-02-08",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "866.80000000000007",
+  "total_qty": "225",
+  "total_order": "182",
+  "aov": "3.8524444444444446",
+  "ts_date": "2023-02-09",
+  "location": "Astoria"
+}, {
+  "total_price": "859.24999999999966",
+  "total_qty": "292",
+  "total_order": "209",
+  "aov": "2.9426369863013688",
+  "ts_date": "2023-02-09",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "884.57999999999981",
+  "total_qty": "244",
+  "total_order": "171",
+  "aov": "3.6253278688524584",
+  "ts_date": "2023-02-09",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "868.00000000000011",
+  "total_qty": "297",
+  "total_order": "199",
+  "aov": "2.922558922558923",
+  "ts_date": "2023-02-10",
+  "location": "Astoria"
+}, {
+  "total_price": "1072.3000000000002",
+  "total_qty": "326",
+  "total_order": "231",
+  "aov": "3.2892638036809823",
+  "ts_date": "2023-02-10",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "961.29999999999973",
+  "total_qty": "295",
+  "total_order": "205",
+  "aov": "3.2586440677966091",
+  "ts_date": "2023-02-10",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "670.04999999999984",
+  "total_qty": "212",
+  "total_order": "155",
+  "aov": "3.1606132075471689",
+  "ts_date": "2023-02-11",
+  "location": "Astoria"
+}, {
+  "total_price": "1031.2099999999998",
+  "total_qty": "307",
+  "total_order": "221",
+  "aov": "3.3589902280130288",
+  "ts_date": "2023-02-11",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "825.48000000000013",
+  "total_qty": "265",
+  "total_order": "191",
+  "aov": "3.1150188679245288",
+  "ts_date": "2023-02-11",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "680.59999999999991",
+  "total_qty": "207",
+  "total_order": "142",
+  "aov": "3.2879227053140094",
+  "ts_date": "2023-02-12",
+  "location": "Astoria"
+}, {
+  "total_price": "1125.7999999999997",
+  "total_qty": "326",
+  "total_order": "231",
+  "aov": "3.4533742331288337",
+  "ts_date": "2023-02-12",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1087.6",
+  "total_qty": "339",
+  "total_order": "234",
+  "aov": "3.2082595870206485",
+  "ts_date": "2023-02-12",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "641.89999999999986",
+  "total_qty": "212",
+  "total_order": "149",
+  "aov": "3.0278301886792445",
+  "ts_date": "2023-02-13",
+  "location": "Astoria"
+}, {
+  "total_price": "1185.1499999999996",
+  "total_qty": "363",
+  "total_order": "232",
+  "aov": "3.2648760330578503",
+  "ts_date": "2023-02-13",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1018.4299999999998",
+  "total_qty": "329",
+  "total_order": "212",
+  "aov": "3.0955319148936167",
+  "ts_date": "2023-02-13",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "747.05000000000007",
+  "total_qty": "210",
+  "total_order": "151",
+  "aov": "3.5573809523809525",
+  "ts_date": "2023-02-14",
+  "location": "Astoria"
+}, {
+  "total_price": "1163.6499999999994",
+  "total_qty": "349",
+  "total_order": "257",
+  "aov": "3.3342406876790815",
+  "ts_date": "2023-02-14",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "763.22999999999979",
+  "total_qty": "237",
+  "total_order": "179",
+  "aov": "3.2203797468354423",
+  "ts_date": "2023-02-14",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1254.9499999999982",
+  "total_qty": "375",
+  "total_order": "262",
+  "aov": "3.3465333333333285",
+  "ts_date": "2023-02-15",
+  "location": "Astoria"
+}, {
+  "total_price": "850.25000000000011",
+  "total_qty": "254",
+  "total_order": "181",
+  "aov": "3.3474409448818903",
+  "ts_date": "2023-02-15",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "822.84999999999991",
+  "total_qty": "249",
+  "total_order": "181",
+  "aov": "3.3046184738955819",
+  "ts_date": "2023-02-15",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1191.2999999999995",
+  "total_qty": "341",
+  "total_order": "243",
+  "aov": "3.4935483870967725",
+  "ts_date": "2023-02-16",
+  "location": "Astoria"
+}, {
+  "total_price": "908.23000000000025",
+  "total_qty": "265",
+  "total_order": "195",
+  "aov": "3.4272830188679255",
+  "ts_date": "2023-02-16",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "923.79999999999984",
+  "total_qty": "266",
+  "total_order": "201",
+  "aov": "3.4729323308270672",
+  "ts_date": "2023-02-16",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "967.59999999999945",
+  "total_qty": "298",
+  "total_order": "214",
+  "aov": "3.2469798657718103",
+  "ts_date": "2023-02-17",
+  "location": "Astoria"
+}, {
+  "total_price": "637.60000000000014",
+  "total_qty": "209",
+  "total_order": "151",
+  "aov": "3.0507177033492829",
+  "ts_date": "2023-02-17",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "695.55",
+  "total_qty": "229",
+  "total_order": "169",
+  "aov": "3.0373362445414847",
+  "ts_date": "2023-02-17",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1069.5299999999995",
+  "total_qty": "297",
+  "total_order": "202",
+  "aov": "3.6011111111111096",
+  "ts_date": "2023-02-18",
+  "location": "Astoria"
+}, {
+  "total_price": "1049.4999999999995",
+  "total_qty": "297",
+  "total_order": "212",
+  "aov": "3.533670033670032",
+  "ts_date": "2023-02-18",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "746.44999999999959",
+  "total_qty": "233",
+  "total_order": "180",
+  "aov": "3.2036480686695263",
+  "ts_date": "2023-02-18",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1164.3999999999996",
+  "total_qty": "342",
+  "total_order": "250",
+  "aov": "3.4046783625730983",
+  "ts_date": "2023-02-19",
+  "location": "Astoria"
+}, {
+  "total_price": "1164.1999999999989",
+  "total_qty": "331",
+  "total_order": "242",
+  "aov": "3.5172205438066433",
+  "ts_date": "2023-02-19",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "890.99999999999966",
+  "total_qty": "275",
+  "total_order": "200",
+  "aov": "3.2399999999999989",
+  "ts_date": "2023-02-19",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "760.23",
+  "total_qty": "209",
+  "total_order": "205",
+  "aov": "3.637464114832536",
+  "ts_date": "2023-02-20",
+  "location": "Astoria"
+}, {
+  "total_price": "1066.6499999999994",
+  "total_qty": "316",
+  "total_order": "219",
+  "aov": "3.3754746835443021",
+  "ts_date": "2023-02-20",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1056.7499999999998",
+  "total_qty": "336",
+  "total_order": "204",
+  "aov": "3.1450892857142851",
+  "ts_date": "2023-02-20",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "870.48",
+  "total_qty": "238",
+  "total_order": "168",
+  "aov": "3.6574789915966388",
+  "ts_date": "2023-02-21",
+  "location": "Astoria"
+}, {
+  "total_price": "958.65000000000009",
+  "total_qty": "307",
+  "total_order": "222",
+  "aov": "3.1226384364820849",
+  "ts_date": "2023-02-21",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "954.4",
+  "total_qty": "276",
+  "total_order": "165",
+  "aov": "3.4579710144927533",
+  "ts_date": "2023-02-21",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1037.5000000000005",
+  "total_qty": "334",
+  "total_order": "214",
+  "aov": "3.1062874251497021",
+  "ts_date": "2023-02-22",
+  "location": "Astoria"
+}, {
+  "total_price": "830.70000000000027",
+  "total_qty": "254",
+  "total_order": "180",
+  "aov": "3.2704724409448831",
+  "ts_date": "2023-02-22",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1060.4999999999995",
+  "total_qty": "323",
+  "total_order": "187",
+  "aov": "3.2832817337461284",
+  "ts_date": "2023-02-22",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "904.5",
+  "total_qty": "283",
+  "total_order": "200",
+  "aov": "3.1961130742049471",
+  "ts_date": "2023-02-23",
+  "location": "Astoria"
+}, {
+  "total_price": "888.98000000000013",
+  "total_qty": "240",
+  "total_order": "177",
+  "aov": "3.7040833333333341",
+  "ts_date": "2023-02-23",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "952.72999999999979",
+  "total_qty": "311",
+  "total_order": "178",
+  "aov": "3.0634405144694528",
+  "ts_date": "2023-02-23",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "986.9",
+  "total_qty": "303",
+  "total_order": "213",
+  "aov": "3.2570957095709572",
+  "ts_date": "2023-02-24",
+  "location": "Astoria"
+}, {
+  "total_price": "815.10000000000025",
+  "total_qty": "256",
+  "total_order": "176",
+  "aov": "3.183984375000001",
+  "ts_date": "2023-02-24",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1138.6999999999994",
+  "total_qty": "373",
+  "total_order": "214",
+  "aov": "3.0528150134048242",
+  "ts_date": "2023-02-24",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "813.55000000000007",
+  "total_qty": "266",
+  "total_order": "185",
+  "aov": "3.0584586466165415",
+  "ts_date": "2023-02-25",
+  "location": "Astoria"
+}, {
+  "total_price": "853.35",
+  "total_qty": "255",
+  "total_order": "182",
+  "aov": "3.3464705882352943",
+  "ts_date": "2023-02-25",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1156.6499999999994",
+  "total_qty": "367",
+  "total_order": "209",
+  "aov": "3.1516348773841947",
+  "ts_date": "2023-02-25",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1030.9000000000005",
+  "total_qty": "337",
+  "total_order": "233",
+  "aov": "3.0590504451038592",
+  "ts_date": "2023-02-26",
+  "location": "Astoria"
+}, {
+  "total_price": "928.45000000000016",
+  "total_qty": "269",
+  "total_order": "198",
+  "aov": "3.4514869888475843",
+  "ts_date": "2023-02-26",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "997.4",
+  "total_qty": "299",
+  "total_order": "170",
+  "aov": "3.3357859531772576",
+  "ts_date": "2023-02-26",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "931.85000000000014",
+  "total_qty": "301",
+  "total_order": "208",
+  "aov": "3.0958471760797348",
+  "ts_date": "2023-02-27",
+  "location": "Astoria"
+}, {
+  "total_price": "758.9000000000002",
+  "total_qty": "272",
+  "total_order": "187",
+  "aov": "2.7900735294117656",
+  "ts_date": "2023-02-27",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1469.2499999999986",
+  "total_qty": "434",
+  "total_order": "268",
+  "aov": "3.3853686635944671",
+  "ts_date": "2023-02-27",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "842.9",
+  "total_qty": "275",
+  "total_order": "189",
+  "aov": "3.0650909090909089",
+  "ts_date": "2023-02-28",
+  "location": "Astoria"
+}, {
+  "total_price": "749.20000000000027",
+  "total_qty": "237",
+  "total_order": "167",
+  "aov": "3.1611814345991571",
+  "ts_date": "2023-02-28",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "719.0",
+  "total_qty": "232",
+  "total_order": "155",
+  "aov": "3.0991379310344827",
+  "ts_date": "2023-02-28",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1021.1",
+  "total_qty": "328",
+  "total_order": "229",
+  "aov": "3.1131097560975611",
+  "ts_date": "2023-03-01",
+  "location": "Astoria"
+}, {
+  "total_price": "1040.45",
+  "total_qty": "330",
+  "total_order": "214",
+  "aov": "3.1528787878787878",
+  "ts_date": "2023-03-01",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "978.70000000000016",
+  "total_qty": "310",
+  "total_order": "218",
+  "aov": "3.1570967741935489",
+  "ts_date": "2023-03-01",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1088.3999999999999",
+  "total_qty": "352",
+  "total_order": "243",
+  "aov": "3.0920454545454543",
+  "ts_date": "2023-03-02",
+  "location": "Astoria"
+}, {
+  "total_price": "1020.75",
+  "total_qty": "331",
+  "total_order": "228",
+  "aov": "3.0838368580060425",
+  "ts_date": "2023-03-02",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "886.9000000000002",
+  "total_qty": "280",
+  "total_order": "202",
+  "aov": "3.1675000000000009",
+  "ts_date": "2023-03-02",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1160.35",
+  "total_qty": "371",
+  "total_order": "264",
+  "aov": "3.1276280323450134",
+  "ts_date": "2023-03-03",
+  "location": "Astoria"
+}, {
+  "total_price": "1037.5499999999997",
+  "total_qty": "328",
+  "total_order": "229",
+  "aov": "3.16326219512195",
+  "ts_date": "2023-03-03",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "957.25000000000011",
+  "total_qty": "311",
+  "total_order": "217",
+  "aov": "3.0779742765273315",
+  "ts_date": "2023-03-03",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1008.7500000000001",
+  "total_qty": "328",
+  "total_order": "228",
+  "aov": "3.0754573170731709",
+  "ts_date": "2023-03-04",
+  "location": "Astoria"
+}, {
+  "total_price": "868.40000000000009",
+  "total_qty": "281",
+  "total_order": "195",
+  "aov": "3.0903914590747332",
+  "ts_date": "2023-03-04",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "904.75000000000011",
+  "total_qty": "288",
+  "total_order": "201",
+  "aov": "3.1414930555555558",
+  "ts_date": "2023-03-04",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1097.1499999999996",
+  "total_qty": "355",
+  "total_order": "253",
+  "aov": "3.0905633802816892",
+  "ts_date": "2023-03-05",
+  "location": "Astoria"
+}, {
+  "total_price": "904.00000000000023",
+  "total_qty": "299",
+  "total_order": "207",
+  "aov": "3.0234113712374588",
+  "ts_date": "2023-03-05",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "944.15",
+  "total_qty": "298",
+  "total_order": "215",
+  "aov": "3.1682885906040266",
+  "ts_date": "2023-03-05",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "732.75000000000011",
+  "total_qty": "231",
+  "total_order": "169",
+  "aov": "3.1720779220779227",
+  "ts_date": "2023-03-06",
+  "location": "Astoria"
+}, {
+  "total_price": "934.95",
+  "total_qty": "306",
+  "total_order": "205",
+  "aov": "3.0553921568627453",
+  "ts_date": "2023-03-06",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "950.35000000000014",
+  "total_qty": "299",
+  "total_order": "213",
+  "aov": "3.1784280936454854",
+  "ts_date": "2023-03-06",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "921.30000000000018",
+  "total_qty": "293",
+  "total_order": "212",
+  "aov": "3.1443686006825944",
+  "ts_date": "2023-03-07",
+  "location": "Astoria"
+}, {
+  "total_price": "1136.0499999999995",
+  "total_qty": "374",
+  "total_order": "263",
+  "aov": "3.0375668449197848",
+  "ts_date": "2023-03-07",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "746.14999999999986",
+  "total_qty": "216",
+  "total_order": "154",
+  "aov": "3.4543981481481474",
+  "ts_date": "2023-03-07",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1209.08",
+  "total_qty": "332",
+  "total_order": "241",
+  "aov": "3.6418072289156624",
+  "ts_date": "2023-03-08",
+  "location": "Astoria"
+}, {
+  "total_price": "1184.0799999999997",
+  "total_qty": "357",
+  "total_order": "262",
+  "aov": "3.3167507002801111",
+  "ts_date": "2023-03-08",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1130.1000000000001",
+  "total_qty": "350",
+  "total_order": "239",
+  "aov": "3.2288571428571431",
+  "ts_date": "2023-03-08",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "908.83",
+  "total_qty": "249",
+  "total_order": "199",
+  "aov": "3.6499196787148596",
+  "ts_date": "2023-03-09",
+  "location": "Astoria"
+}, {
+  "total_price": "1268.6999999999987",
+  "total_qty": "399",
+  "total_order": "286",
+  "aov": "3.1796992481202975",
+  "ts_date": "2023-03-09",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1282.4400000000007",
+  "total_qty": "335",
+  "total_order": "237",
+  "aov": "3.8281791044776141",
+  "ts_date": "2023-03-09",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1081.1999999999996",
+  "total_qty": "327",
+  "total_order": "230",
+  "aov": "3.3064220183486226",
+  "ts_date": "2023-03-10",
+  "location": "Astoria"
+}, {
+  "total_price": "1252.1799999999994",
+  "total_qty": "384",
+  "total_order": "284",
+  "aov": "3.2608854166666652",
+  "ts_date": "2023-03-10",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1108.1999999999996",
+  "total_qty": "340",
+  "total_order": "236",
+  "aov": "3.2594117647058813",
+  "ts_date": "2023-03-10",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "995.25000000000011",
+  "total_qty": "295",
+  "total_order": "201",
+  "aov": "3.3737288135593224",
+  "ts_date": "2023-03-11",
+  "location": "Astoria"
+}, {
+  "total_price": "1140.7999999999995",
+  "total_qty": "363",
+  "total_order": "252",
+  "aov": "3.1426997245179051",
+  "ts_date": "2023-03-11",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1075.5999999999997",
+  "total_qty": "344",
+  "total_order": "236",
+  "aov": "3.1267441860465106",
+  "ts_date": "2023-03-11",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "664.12999999999965",
+  "total_qty": "202",
+  "total_order": "144",
+  "aov": "3.2877722772277211",
+  "ts_date": "2023-03-12",
+  "location": "Astoria"
+}, {
+  "total_price": "1278.0499999999981",
+  "total_qty": "370",
+  "total_order": "266",
+  "aov": "3.4541891891891843",
+  "ts_date": "2023-03-12",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1146.1499999999992",
+  "total_qty": "375",
+  "total_order": "257",
+  "aov": "3.0563999999999978",
+  "ts_date": "2023-03-12",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "846.09999999999968",
+  "total_qty": "282",
+  "total_order": "199",
+  "aov": "3.0003546099290768",
+  "ts_date": "2023-03-13",
+  "location": "Astoria"
+}, {
+  "total_price": "1440.8999999999985",
+  "total_qty": "423",
+  "total_order": "269",
+  "aov": "3.4063829787234008",
+  "ts_date": "2023-03-13",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1340.6499999999983",
+  "total_qty": "405",
+  "total_order": "262",
+  "aov": "3.3102469135802428",
+  "ts_date": "2023-03-13",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "966.55000000000018",
+  "total_qty": "257",
+  "total_order": "183",
+  "aov": "3.7608949416342421",
+  "ts_date": "2023-03-14",
+  "location": "Astoria"
+}, {
+  "total_price": "1379.8299999999981",
+  "total_qty": "380",
+  "total_order": "289",
+  "aov": "3.6311315789473633",
+  "ts_date": "2023-03-14",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "966.27999999999963",
+  "total_qty": "281",
+  "total_order": "219",
+  "aov": "3.4387188612099631",
+  "ts_date": "2023-03-14",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1417.4499999999987",
+  "total_qty": "398",
+  "total_order": "283",
+  "aov": "3.5614321608040167",
+  "ts_date": "2023-03-15",
+  "location": "Astoria"
+}, {
+  "total_price": "1005.2800000000002",
+  "total_qty": "317",
+  "total_order": "229",
+  "aov": "3.1712302839116724",
+  "ts_date": "2023-03-15",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "915.3",
+  "total_qty": "285",
+  "total_order": "209",
+  "aov": "3.2115789473684209",
+  "ts_date": "2023-03-15",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1149.1299999999997",
+  "total_qty": "359",
+  "total_order": "258",
+  "aov": "3.2009192200557095",
+  "ts_date": "2023-03-16",
+  "location": "Astoria"
+}, {
+  "total_price": "1142.4299999999992",
+  "total_qty": "350",
+  "total_order": "260",
+  "aov": "3.264085714285712",
+  "ts_date": "2023-03-16",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1094.5499999999995",
+  "total_qty": "328",
+  "total_order": "240",
+  "aov": "3.3370426829268278",
+  "ts_date": "2023-03-16",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1440.4499999999985",
+  "total_qty": "408",
+  "total_order": "296",
+  "aov": "3.5305147058823492",
+  "ts_date": "2023-03-17",
+  "location": "Astoria"
+}, {
+  "total_price": "788.44999999999982",
+  "total_qty": "236",
+  "total_order": "176",
+  "aov": "3.3408898305084738",
+  "ts_date": "2023-03-17",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "952.84999999999957",
+  "total_qty": "298",
+  "total_order": "221",
+  "aov": "3.1974832214765088",
+  "ts_date": "2023-03-17",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1207.5799999999986",
+  "total_qty": "353",
+  "total_order": "260",
+  "aov": "3.4209065155807323",
+  "ts_date": "2023-03-18",
+  "location": "Astoria"
+}, {
+  "total_price": "1163.2499999999991",
+  "total_qty": "337",
+  "total_order": "240",
+  "aov": "3.4517804154302643",
+  "ts_date": "2023-03-18",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1037.5299999999997",
+  "total_qty": "311",
+  "total_order": "231",
+  "aov": "3.3361093247588416",
+  "ts_date": "2023-03-18",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1488.4999999999984",
+  "total_qty": "392",
+  "total_order": "279",
+  "aov": "3.7971938775510163",
+  "ts_date": "2023-03-19",
+  "location": "Astoria"
+}, {
+  "total_price": "1085.1799999999989",
+  "total_qty": "340",
+  "total_order": "256",
+  "aov": "3.1917058823529381",
+  "ts_date": "2023-03-19",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "766.34999999999991",
+  "total_qty": "256",
+  "total_order": "190",
+  "aov": "2.9935546874999996",
+  "ts_date": "2023-03-19",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1113.0799999999997",
+  "total_qty": "285",
+  "total_order": "280",
+  "aov": "3.9055438596491219",
+  "ts_date": "2023-03-20",
+  "location": "Astoria"
+}, {
+  "total_price": "1114.099999999999",
+  "total_qty": "351",
+  "total_order": "246",
+  "aov": "3.1740740740740714",
+  "ts_date": "2023-03-20",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1035.0999999999997",
+  "total_qty": "352",
+  "total_order": "209",
+  "aov": "2.9406249999999989",
+  "ts_date": "2023-03-20",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "835.85",
+  "total_qty": "236",
+  "total_order": "171",
+  "aov": "3.5417372881355935",
+  "ts_date": "2023-03-21",
+  "location": "Astoria"
+}, {
+  "total_price": "1316.699999999998",
+  "total_qty": "394",
+  "total_order": "293",
+  "aov": "3.3418781725888276",
+  "ts_date": "2023-03-21",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1057.2499999999991",
+  "total_qty": "319",
+  "total_order": "186",
+  "aov": "3.3142633228840097",
+  "ts_date": "2023-03-21",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1124.5500000000002",
+  "total_qty": "367",
+  "total_order": "252",
+  "aov": "3.064168937329701",
+  "ts_date": "2023-03-22",
+  "location": "Astoria"
+}, {
+  "total_price": "923.90000000000009",
+  "total_qty": "277",
+  "total_order": "207",
+  "aov": "3.3353790613718415",
+  "ts_date": "2023-03-22",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1235.6599999999992",
+  "total_qty": "370",
+  "total_order": "210",
+  "aov": "3.3396216216216192",
+  "ts_date": "2023-03-22",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1060.5499999999997",
+  "total_qty": "328",
+  "total_order": "234",
+  "aov": "3.2333841463414625",
+  "ts_date": "2023-03-23",
+  "location": "Astoria"
+}, {
+  "total_price": "1142.3299999999995",
+  "total_qty": "325",
+  "total_order": "237",
+  "aov": "3.5148615384615369",
+  "ts_date": "2023-03-23",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1158.2499999999993",
+  "total_qty": "387",
+  "total_order": "223",
+  "aov": "2.9928940568475433",
+  "ts_date": "2023-03-23",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1123.2",
+  "total_qty": "355",
+  "total_order": "246",
+  "aov": "3.1639436619718313",
+  "ts_date": "2023-03-24",
+  "location": "Astoria"
+}, {
+  "total_price": "1015.9000000000001",
+  "total_qty": "300",
+  "total_order": "213",
+  "aov": "3.3863333333333334",
+  "ts_date": "2023-03-24",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1447.0999999999985",
+  "total_qty": "456",
+  "total_order": "259",
+  "aov": "3.1734649122806986",
+  "ts_date": "2023-03-24",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1025.7500000000002",
+  "total_qty": "337",
+  "total_order": "237",
+  "aov": "3.043768545994066",
+  "ts_date": "2023-03-25",
+  "location": "Astoria"
+}, {
+  "total_price": "1006.3",
+  "total_qty": "297",
+  "total_order": "213",
+  "aov": "3.3882154882154882",
+  "ts_date": "2023-03-25",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1348.899999999999",
+  "total_qty": "416",
+  "total_order": "238",
+  "aov": "3.2425480769230743",
+  "ts_date": "2023-03-25",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1208.6500000000003",
+  "total_qty": "391",
+  "total_order": "268",
+  "aov": "3.0911764705882363",
+  "ts_date": "2023-03-26",
+  "location": "Astoria"
+}, {
+  "total_price": "971.63000000000022",
+  "total_qty": "287",
+  "total_order": "208",
+  "aov": "3.385470383275262",
+  "ts_date": "2023-03-26",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1130.5499999999997",
+  "total_qty": "360",
+  "total_order": "195",
+  "aov": "3.140416666666666",
+  "ts_date": "2023-03-26",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1124.0",
+  "total_qty": "360",
+  "total_order": "249",
+  "aov": "3.1222222222222222",
+  "ts_date": "2023-03-27",
+  "location": "Astoria"
+}, {
+  "total_price": "1060.5999999999992",
+  "total_qty": "380",
+  "total_order": "263",
+  "aov": "2.7910526315789452",
+  "ts_date": "2023-03-27",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1489.7499999999989",
+  "total_qty": "437",
+  "total_order": "252",
+  "aov": "3.4090389016018281",
+  "ts_date": "2023-03-27",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "954.75000000000023",
+  "total_qty": "312",
+  "total_order": "213",
+  "aov": "3.0600961538461546",
+  "ts_date": "2023-03-28",
+  "location": "Astoria"
+}, {
+  "total_price": "892.5500000000003",
+  "total_qty": "280",
+  "total_order": "206",
+  "aov": "3.1876785714285725",
+  "ts_date": "2023-03-28",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "945.25000000000023",
+  "total_qty": "305",
+  "total_order": "207",
+  "aov": "3.099180327868853",
+  "ts_date": "2023-03-28",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "978.80000000000018",
+  "total_qty": "317",
+  "total_order": "231",
+  "aov": "3.0876971608832813",
+  "ts_date": "2023-03-29",
+  "location": "Astoria"
+}, {
+  "total_price": "672.9000000000002",
+  "total_qty": "221",
+  "total_order": "157",
+  "aov": "3.0447963800904985",
+  "ts_date": "2023-03-29",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "840.30000000000018",
+  "total_qty": "274",
+  "total_order": "194",
+  "aov": "3.0667883211678837",
+  "ts_date": "2023-03-29",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "967.05000000000041",
+  "total_qty": "307",
+  "total_order": "218",
+  "aov": "3.1500000000000012",
+  "ts_date": "2023-03-30",
+  "location": "Astoria"
+}, {
+  "total_price": "998.98000000000013",
+  "total_qty": "291",
+  "total_order": "211",
+  "aov": "3.4329209621993133",
+  "ts_date": "2023-03-30",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "966.78999999999985",
+  "total_qty": "319",
+  "total_order": "210",
+  "aov": "3.0306896551724134",
+  "ts_date": "2023-03-30",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "915.15000000000009",
+  "total_qty": "292",
+  "total_order": "210",
+  "aov": "3.1340753424657537",
+  "ts_date": "2023-03-31",
+  "location": "Astoria"
+}, {
+  "total_price": "923.40000000000009",
+  "total_qty": "290",
+  "total_order": "203",
+  "aov": "3.1841379310344831",
+  "ts_date": "2023-03-31",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1049.5299999999995",
+  "total_qty": "304",
+  "total_order": "202",
+  "aov": "3.452401315789472",
+  "ts_date": "2023-03-31",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1316.4999999999998",
+  "total_qty": "433",
+  "total_order": "302",
+  "aov": "3.04041570438799",
+  "ts_date": "2023-04-01",
+  "location": "Astoria"
+}, {
+  "total_price": "1215.35",
+  "total_qty": "390",
+  "total_order": "261",
+  "aov": "3.116282051282051",
+  "ts_date": "2023-04-01",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1168.0500000000002",
+  "total_qty": "375",
+  "total_order": "267",
+  "aov": "3.1148000000000007",
+  "ts_date": "2023-04-01",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1351.35",
+  "total_qty": "430",
+  "total_order": "294",
+  "aov": "3.1426744186046509",
+  "ts_date": "2023-04-02",
+  "location": "Astoria"
+}, {
+  "total_price": "1222.3000000000002",
+  "total_qty": "399",
+  "total_order": "275",
+  "aov": "3.0634085213032587",
+  "ts_date": "2023-04-02",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1002.2000000000002",
+  "total_qty": "327",
+  "total_order": "233",
+  "aov": "3.0648318042813463",
+  "ts_date": "2023-04-02",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1333.4",
+  "total_qty": "429",
+  "total_order": "298",
+  "aov": "3.1081585081585086",
+  "ts_date": "2023-04-03",
+  "location": "Astoria"
+}, {
+  "total_price": "1144.0",
+  "total_qty": "367",
+  "total_order": "257",
+  "aov": "3.11716621253406",
+  "ts_date": "2023-04-03",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1127.5500000000002",
+  "total_qty": "366",
+  "total_order": "259",
+  "aov": "3.0807377049180333",
+  "ts_date": "2023-04-03",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1150.75",
+  "total_qty": "371",
+  "total_order": "262",
+  "aov": "3.1017520215633425",
+  "ts_date": "2023-04-04",
+  "location": "Astoria"
+}, {
+  "total_price": "1084.5500000000002",
+  "total_qty": "355",
+  "total_order": "250",
+  "aov": "3.0550704225352119",
+  "ts_date": "2023-04-04",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1092.0000000000002",
+  "total_qty": "360",
+  "total_order": "241",
+  "aov": "3.0333333333333341",
+  "ts_date": "2023-04-04",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1242.1499999999999",
+  "total_qty": "400",
+  "total_order": "290",
+  "aov": "3.1053749999999996",
+  "ts_date": "2023-04-05",
+  "location": "Astoria"
+}, {
+  "total_price": "1108.3",
+  "total_qty": "356",
+  "total_order": "250",
+  "aov": "3.113202247191011",
+  "ts_date": "2023-04-05",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1202.25",
+  "total_qty": "380",
+  "total_order": "274",
+  "aov": "3.1638157894736842",
+  "ts_date": "2023-04-05",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1002.9500000000004",
+  "total_qty": "318",
+  "total_order": "227",
+  "aov": "3.153930817610064",
+  "ts_date": "2023-04-06",
+  "location": "Astoria"
+}, {
+  "total_price": "1167.0",
+  "total_qty": "389",
+  "total_order": "267",
+  "aov": "3.0",
+  "ts_date": "2023-04-06",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1080.25",
+  "total_qty": "346",
+  "total_order": "245",
+  "aov": "3.1221098265895955",
+  "ts_date": "2023-04-06",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1138.6",
+  "total_qty": "363",
+  "total_order": "262",
+  "aov": "3.1366391184573",
+  "ts_date": "2023-04-07",
+  "location": "Astoria"
+}, {
+  "total_price": "1529.4499999999978",
+  "total_qty": "490",
+  "total_order": "338",
+  "aov": "3.12132653061224",
+  "ts_date": "2023-04-07",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1014.7499999999998",
+  "total_qty": "280",
+  "total_order": "202",
+  "aov": "3.6241071428571421",
+  "ts_date": "2023-04-07",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1631.9299999999992",
+  "total_qty": "444",
+  "total_order": "316",
+  "aov": "3.6755180180180163",
+  "ts_date": "2023-04-08",
+  "location": "Astoria"
+}, {
+  "total_price": "1427.7799999999979",
+  "total_qty": "443",
+  "total_order": "315",
+  "aov": "3.2229796839729072",
+  "ts_date": "2023-04-08",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1513.3499999999983",
+  "total_qty": "440",
+  "total_order": "302",
+  "aov": "3.4394318181818142",
+  "ts_date": "2023-04-08",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1192.1799999999996",
+  "total_qty": "320",
+  "total_order": "254",
+  "aov": "3.7255624999999988",
+  "ts_date": "2023-04-09",
+  "location": "Astoria"
+}, {
+  "total_price": "1431.3999999999974",
+  "total_qty": "460",
+  "total_order": "330",
+  "aov": "3.1117391304347768",
+  "ts_date": "2023-04-09",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1465.3000000000006",
+  "total_qty": "377",
+  "total_order": "264",
+  "aov": "3.8867374005305058",
+  "ts_date": "2023-04-09",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1355.4499999999982",
+  "total_qty": "416",
+  "total_order": "288",
+  "aov": "3.2582932692307649",
+  "ts_date": "2023-04-10",
+  "location": "Astoria"
+}, {
+  "total_price": "1411.0499999999986",
+  "total_qty": "425",
+  "total_order": "311",
+  "aov": "3.32011764705882",
+  "ts_date": "2023-04-10",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1453.7999999999981",
+  "total_qty": "445",
+  "total_order": "314",
+  "aov": "3.2669662921348275",
+  "ts_date": "2023-04-10",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1294.9999999999986",
+  "total_qty": "411",
+  "total_order": "278",
+  "aov": "3.1508515815085123",
+  "ts_date": "2023-04-11",
+  "location": "Astoria"
+}, {
+  "total_price": "1362.0299999999982",
+  "total_qty": "420",
+  "total_order": "304",
+  "aov": "3.2429285714285672",
+  "ts_date": "2023-04-11",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1195.8299999999997",
+  "total_qty": "406",
+  "total_order": "282",
+  "aov": "2.94539408866995",
+  "ts_date": "2023-04-11",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "958.62999999999977",
+  "total_qty": "287",
+  "total_order": "203",
+  "aov": "3.3401742160278736",
+  "ts_date": "2023-04-12",
+  "location": "Astoria"
+}, {
+  "total_price": "1568.9999999999964",
+  "total_qty": "476",
+  "total_order": "337",
+  "aov": "3.2962184873949503",
+  "ts_date": "2023-04-12",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1512.5499999999995",
+  "total_qty": "476",
+  "total_order": "327",
+  "aov": "3.1776260504201672",
+  "ts_date": "2023-04-12",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1069.6999999999989",
+  "total_qty": "353",
+  "total_order": "259",
+  "aov": "3.0303116147308753",
+  "ts_date": "2023-04-13",
+  "location": "Astoria"
+}, {
+  "total_price": "1797.3999999999978",
+  "total_qty": "547",
+  "total_order": "354",
+  "aov": "3.28592321755027",
+  "ts_date": "2023-04-13",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1247.4299999999989",
+  "total_qty": "394",
+  "total_order": "257",
+  "aov": "3.1660659898477128",
+  "ts_date": "2023-04-13",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1195.8299999999997",
+  "total_qty": "322",
+  "total_order": "223",
+  "aov": "3.7137577639751544",
+  "ts_date": "2023-04-14",
+  "location": "Astoria"
+}, {
+  "total_price": "1818.459999999998",
+  "total_qty": "483",
+  "total_order": "358",
+  "aov": "3.76492753623188",
+  "ts_date": "2023-04-14",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1116.9599999999991",
+  "total_qty": "309",
+  "total_order": "240",
+  "aov": "3.6147572815533953",
+  "ts_date": "2023-04-14",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1622.659999999998",
+  "total_qty": "470",
+  "total_order": "326",
+  "aov": "3.4524680851063789",
+  "ts_date": "2023-04-15",
+  "location": "Astoria"
+}, {
+  "total_price": "1229.0799999999997",
+  "total_qty": "372",
+  "total_order": "270",
+  "aov": "3.3039784946236552",
+  "ts_date": "2023-04-15",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1270.0499999999977",
+  "total_qty": "403",
+  "total_order": "285",
+  "aov": "3.1514888337468925",
+  "ts_date": "2023-04-15",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1482.0799999999981",
+  "total_qty": "451",
+  "total_order": "327",
+  "aov": "3.2862084257206168",
+  "ts_date": "2023-04-16",
+  "location": "Astoria"
+}, {
+  "total_price": "1555.4299999999982",
+  "total_qty": "461",
+  "total_order": "335",
+  "aov": "3.3740347071583474",
+  "ts_date": "2023-04-16",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1462.8799999999983",
+  "total_qty": "426",
+  "total_order": "327",
+  "aov": "3.4339906103286344",
+  "ts_date": "2023-04-16",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1543.5999999999979",
+  "total_qty": "457",
+  "total_order": "315",
+  "aov": "3.3776805251641093",
+  "ts_date": "2023-04-17",
+  "location": "Astoria"
+}, {
+  "total_price": "1638.4499999999991",
+  "total_qty": "291",
+  "total_order": "205",
+  "aov": "5.6304123711340175",
+  "ts_date": "2023-04-17",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1150.0499999999993",
+  "total_qty": "369",
+  "total_order": "275",
+  "aov": "3.1166666666666645",
+  "ts_date": "2023-04-17",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1608.7899999999979",
+  "total_qty": "453",
+  "total_order": "322",
+  "aov": "3.5514128035320041",
+  "ts_date": "2023-04-18",
+  "location": "Astoria"
+}, {
+  "total_price": "1580.5999999999976",
+  "total_qty": "470",
+  "total_order": "329",
+  "aov": "3.3629787234042503",
+  "ts_date": "2023-04-18",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1164.6799999999992",
+  "total_qty": "352",
+  "total_order": "259",
+  "aov": "3.3087499999999976",
+  "ts_date": "2023-04-18",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1738.9299999999987",
+  "total_qty": "488",
+  "total_order": "349",
+  "aov": "3.5633811475409809",
+  "ts_date": "2023-04-19",
+  "location": "Astoria"
+}, {
+  "total_price": "1449.1799999999976",
+  "total_qty": "418",
+  "total_order": "309",
+  "aov": "3.4669377990430563",
+  "ts_date": "2023-04-19",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1130.1999999999996",
+  "total_qty": "364",
+  "total_order": "263",
+  "aov": "3.1049450549450537",
+  "ts_date": "2023-04-19",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1163.9499999999994",
+  "total_qty": "294",
+  "total_order": "289",
+  "aov": "3.9590136054421747",
+  "ts_date": "2023-04-20",
+  "location": "Astoria"
+}, {
+  "total_price": "1317.399999999998",
+  "total_qty": "422",
+  "total_order": "286",
+  "aov": "3.1218009478672939",
+  "ts_date": "2023-04-20",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1443.4299999999985",
+  "total_qty": "461",
+  "total_order": "279",
+  "aov": "3.1310845986984783",
+  "ts_date": "2023-04-20",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1101.8799999999997",
+  "total_qty": "305",
+  "total_order": "213",
+  "aov": "3.6127213114754086",
+  "ts_date": "2023-04-21",
+  "location": "Astoria"
+}, {
+  "total_price": "1521.8499999999972",
+  "total_qty": "466",
+  "total_order": "340",
+  "aov": "3.2657725321888353",
+  "ts_date": "2023-04-21",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1381.6499999999987",
+  "total_qty": "435",
+  "total_order": "256",
+  "aov": "3.1762068965517214",
+  "ts_date": "2023-04-21",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1291.9500000000003",
+  "total_qty": "414",
+  "total_order": "278",
+  "aov": "3.1206521739130442",
+  "ts_date": "2023-04-22",
+  "location": "Astoria"
+}, {
+  "total_price": "1035.45",
+  "total_qty": "315",
+  "total_order": "226",
+  "aov": "3.2871428571428574",
+  "ts_date": "2023-04-22",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1634.179999999998",
+  "total_qty": "509",
+  "total_order": "294",
+  "aov": "3.2105697445972456",
+  "ts_date": "2023-04-22",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1384.0500000000002",
+  "total_qty": "428",
+  "total_order": "296",
+  "aov": "3.2337616822429909",
+  "ts_date": "2023-04-23",
+  "location": "Astoria"
+}, {
+  "total_price": "1414.4799999999989",
+  "total_qty": "396",
+  "total_order": "284",
+  "aov": "3.5719191919191893",
+  "ts_date": "2023-04-23",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1522.7599999999984",
+  "total_qty": "482",
+  "total_order": "275",
+  "aov": "3.1592531120331917",
+  "ts_date": "2023-04-23",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1539.799999999999",
+  "total_qty": "490",
+  "total_order": "347",
+  "aov": "3.1424489795918347",
+  "ts_date": "2023-04-24",
+  "location": "Astoria"
+}, {
+  "total_price": "1166.7499999999995",
+  "total_qty": "348",
+  "total_order": "248",
+  "aov": "3.35272988505747",
+  "ts_date": "2023-04-24",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1558.8999999999978",
+  "total_qty": "504",
+  "total_order": "298",
+  "aov": "3.093055555555551",
+  "ts_date": "2023-04-24",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1306.1",
+  "total_qty": "430",
+  "total_order": "301",
+  "aov": "3.0374418604651159",
+  "ts_date": "2023-04-25",
+  "location": "Astoria"
+}, {
+  "total_price": "1284.549999999999",
+  "total_qty": "376",
+  "total_order": "266",
+  "aov": "3.4163563829787207",
+  "ts_date": "2023-04-25",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1664.3499999999981",
+  "total_qty": "529",
+  "total_order": "296",
+  "aov": "3.1462192816635124",
+  "ts_date": "2023-04-25",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1447.4999999999993",
+  "total_qty": "461",
+  "total_order": "321",
+  "aov": "3.13991323210412",
+  "ts_date": "2023-04-26",
+  "location": "Astoria"
+}, {
+  "total_price": "1427.4999999999984",
+  "total_qty": "417",
+  "total_order": "304",
+  "aov": "3.4232613908872862",
+  "ts_date": "2023-04-26",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1684.4499999999973",
+  "total_qty": "518",
+  "total_order": "290",
+  "aov": "3.2518339768339715",
+  "ts_date": "2023-04-26",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1439.5499999999997",
+  "total_qty": "461",
+  "total_order": "317",
+  "aov": "3.1226681127982641",
+  "ts_date": "2023-04-27",
+  "location": "Astoria"
+}, {
+  "total_price": "1301.4499999999971",
+  "total_qty": "462",
+  "total_order": "319",
+  "aov": "2.8169913419913355",
+  "ts_date": "2023-04-27",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1686.0999999999981",
+  "total_qty": "554",
+  "total_order": "318",
+  "aov": "3.0435018050541482",
+  "ts_date": "2023-04-27",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1172.7000000000003",
+  "total_qty": "386",
+  "total_order": "270",
+  "aov": "3.0380829015544046",
+  "ts_date": "2023-04-28",
+  "location": "Astoria"
+}, {
+  "total_price": "1089.9499999999994",
+  "total_qty": "344",
+  "total_order": "248",
+  "aov": "3.1684593023255796",
+  "ts_date": "2023-04-28",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1111.15",
+  "total_qty": "369",
+  "total_order": "251",
+  "aov": "3.0112466124661248",
+  "ts_date": "2023-04-28",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1124.0500000000002",
+  "total_qty": "355",
+  "total_order": "252",
+  "aov": "3.1663380281690148",
+  "ts_date": "2023-04-29",
+  "location": "Astoria"
+}, {
+  "total_price": "892.5500000000003",
+  "total_qty": "290",
+  "total_order": "199",
+  "aov": "3.0777586206896563",
+  "ts_date": "2023-04-29",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "936.9",
+  "total_qty": "309",
+  "total_order": "223",
+  "aov": "3.0320388349514564",
+  "ts_date": "2023-04-29",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1275.5999999999992",
+  "total_qty": "386",
+  "total_order": "277",
+  "aov": "3.3046632124352313",
+  "ts_date": "2023-04-30",
+  "location": "Astoria"
+}, {
+  "total_price": "1111.3999999999996",
+  "total_qty": "346",
+  "total_order": "254",
+  "aov": "3.2121387283236982",
+  "ts_date": "2023-04-30",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1165.3299999999995",
+  "total_qty": "384",
+  "total_order": "254",
+  "aov": "3.0347135416666653",
+  "ts_date": "2023-04-30",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1657.6499999999992",
+  "total_qty": "533",
+  "total_order": "376",
+  "aov": "3.110037523452156",
+  "ts_date": "2023-05-01",
+  "location": "Astoria"
+}, {
+  "total_price": "1598.3999999999994",
+  "total_qty": "512",
+  "total_order": "347",
+  "aov": "3.1218749999999988",
+  "ts_date": "2023-05-01",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1475.399999999999",
+  "total_qty": "470",
+  "total_order": "327",
+  "aov": "3.1391489361702107",
+  "ts_date": "2023-05-01",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1758.4499999999994",
+  "total_qty": "564",
+  "total_order": "393",
+  "aov": "3.1178191489361691",
+  "ts_date": "2023-05-02",
+  "location": "Astoria"
+}, {
+  "total_price": "1590.549999999999",
+  "total_qty": "517",
+  "total_order": "358",
+  "aov": "3.0764990328820097",
+  "ts_date": "2023-05-02",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1276.5",
+  "total_qty": "414",
+  "total_order": "289",
+  "aov": "3.0833333333333335",
+  "ts_date": "2023-05-02",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1760.4499999999991",
+  "total_qty": "567",
+  "total_order": "402",
+  "aov": "3.10485008818342",
+  "ts_date": "2023-05-03",
+  "location": "Astoria"
+}, {
+  "total_price": "1552.4999999999989",
+  "total_qty": "503",
+  "total_order": "357",
+  "aov": "3.0864811133200774",
+  "ts_date": "2023-05-03",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1401.65",
+  "total_qty": "453",
+  "total_order": "317",
+  "aov": "3.094150110375276",
+  "ts_date": "2023-05-03",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1709.8499999999988",
+  "total_qty": "547",
+  "total_order": "385",
+  "aov": "3.1258683729433252",
+  "ts_date": "2023-05-04",
+  "location": "Astoria"
+}, {
+  "total_price": "1448.5499999999986",
+  "total_qty": "467",
+  "total_order": "323",
+  "aov": "3.1018201284796545",
+  "ts_date": "2023-05-04",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1431.3",
+  "total_qty": "469",
+  "total_order": "321",
+  "aov": "3.0518123667377397",
+  "ts_date": "2023-05-04",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1726.6499999999994",
+  "total_qty": "554",
+  "total_order": "387",
+  "aov": "3.1166967509025261",
+  "ts_date": "2023-05-05",
+  "location": "Astoria"
+}, {
+  "total_price": "1445.6999999999991",
+  "total_qty": "463",
+  "total_order": "322",
+  "aov": "3.1224622030237561",
+  "ts_date": "2023-05-05",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1528.649999999999",
+  "total_qty": "490",
+  "total_order": "353",
+  "aov": "3.1196938775510183",
+  "ts_date": "2023-05-05",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1293.0500000000004",
+  "total_qty": "414",
+  "total_order": "291",
+  "aov": "3.1233091787439622",
+  "ts_date": "2023-05-06",
+  "location": "Astoria"
+}, {
+  "total_price": "1433.0999999999988",
+  "total_qty": "478",
+  "total_order": "327",
+  "aov": "2.9981171548117129",
+  "ts_date": "2023-05-06",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1478.9999999999995",
+  "total_qty": "472",
+  "total_order": "337",
+  "aov": "3.1334745762711855",
+  "ts_date": "2023-05-06",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1416.6000000000001",
+  "total_qty": "452",
+  "total_order": "324",
+  "aov": "3.1340707964601773",
+  "ts_date": "2023-05-07",
+  "location": "Astoria"
+}, {
+  "total_price": "1957.5499999999977",
+  "total_qty": "635",
+  "total_order": "437",
+  "aov": "3.0827559055118074",
+  "ts_date": "2023-05-07",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1168.5499999999995",
+  "total_qty": "357",
+  "total_order": "251",
+  "aov": "3.2732492997198865",
+  "ts_date": "2023-05-07",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1967.6799999999996",
+  "total_qty": "546",
+  "total_order": "391",
+  "aov": "3.6038095238095229",
+  "ts_date": "2023-05-08",
+  "location": "Astoria"
+}, {
+  "total_price": "1767.3799999999976",
+  "total_qty": "560",
+  "total_order": "396",
+  "aov": "3.15603571428571",
+  "ts_date": "2023-05-08",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1869.1499999999987",
+  "total_qty": "588",
+  "total_order": "399",
+  "aov": "3.1788265306122425",
+  "ts_date": "2023-05-08",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1362.1099999999988",
+  "total_qty": "387",
+  "total_order": "313",
+  "aov": "3.5196640826873353",
+  "ts_date": "2023-05-09",
+  "location": "Astoria"
+}, {
+  "total_price": "1916.1999999999969",
+  "total_qty": "608",
+  "total_order": "430",
+  "aov": "3.1516447368421",
+  "ts_date": "2023-05-09",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1822.6599999999996",
+  "total_qty": "480",
+  "total_order": "351",
+  "aov": "3.7972083333333324",
+  "ts_date": "2023-05-09",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1716.8999999999967",
+  "total_qty": "550",
+  "total_order": "380",
+  "aov": "3.1216363636363575",
+  "ts_date": "2023-05-10",
+  "location": "Astoria"
+}, {
+  "total_price": "1942.6299999999981",
+  "total_qty": "586",
+  "total_order": "422",
+  "aov": "3.3150682593856624",
+  "ts_date": "2023-05-10",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1596.7999999999972",
+  "total_qty": "507",
+  "total_order": "361",
+  "aov": "3.1495069033530516",
+  "ts_date": "2023-05-10",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1394.9999999999984",
+  "total_qty": "443",
+  "total_order": "313",
+  "aov": "3.1489841986455946",
+  "ts_date": "2023-05-11",
+  "location": "Astoria"
+}, {
+  "total_price": "1905.3099999999974",
+  "total_qty": "562",
+  "total_order": "404",
+  "aov": "3.3902313167259739",
+  "ts_date": "2023-05-11",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1549.7499999999982",
+  "total_qty": "507",
+  "total_order": "350",
+  "aov": "3.0567061143984184",
+  "ts_date": "2023-05-11",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1175.079999999999",
+  "total_qty": "362",
+  "total_order": "254",
+  "aov": "3.2460773480662954",
+  "ts_date": "2023-05-12",
+  "location": "Astoria"
+}, {
+  "total_price": "1896.3999999999965",
+  "total_qty": "583",
+  "total_order": "411",
+  "aov": "3.2528301886792392",
+  "ts_date": "2023-05-12",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1609.6499999999994",
+  "total_qty": "548",
+  "total_order": "375",
+  "aov": "2.9373175182481739",
+  "ts_date": "2023-05-12",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1299.8499999999985",
+  "total_qty": "439",
+  "total_order": "315",
+  "aov": "2.9609339407744844",
+  "ts_date": "2023-05-13",
+  "location": "Astoria"
+}, {
+  "total_price": "2312.5999999999976",
+  "total_qty": "684",
+  "total_order": "445",
+  "aov": "3.3809941520467803",
+  "ts_date": "2023-05-13",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1899.079999999997",
+  "total_qty": "594",
+  "total_order": "388",
+  "aov": "3.1971043771043721",
+  "ts_date": "2023-05-13",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1481.9999999999982",
+  "total_qty": "417",
+  "total_order": "293",
+  "aov": "3.5539568345323698",
+  "ts_date": "2023-05-14",
+  "location": "Astoria"
+}, {
+  "total_price": "1979.7099999999978",
+  "total_qty": "561",
+  "total_order": "424",
+  "aov": "3.5288948306595325",
+  "ts_date": "2023-05-14",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1590.9399999999976",
+  "total_qty": "461",
+  "total_order": "354",
+  "aov": "3.4510629067245064",
+  "ts_date": "2023-05-14",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "2180.8799999999992",
+  "total_qty": "630",
+  "total_order": "447",
+  "aov": "3.4617142857142844",
+  "ts_date": "2023-05-15",
+  "location": "Astoria"
+}, {
+  "total_price": "1592.6499999999978",
+  "total_qty": "480",
+  "total_order": "342",
+  "aov": "3.3180208333333288",
+  "ts_date": "2023-05-15",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1611.4499999999975",
+  "total_qty": "500",
+  "total_order": "367",
+  "aov": "3.2228999999999952",
+  "ts_date": "2023-05-15",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "2042.1499999999974",
+  "total_qty": "623",
+  "total_order": "450",
+  "aov": "3.2779293739967854",
+  "ts_date": "2023-05-16",
+  "location": "Astoria"
+}, {
+  "total_price": "1815.7799999999975",
+  "total_qty": "541",
+  "total_order": "399",
+  "aov": "3.3563401109057254",
+  "ts_date": "2023-05-16",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1684.1999999999982",
+  "total_qty": "493",
+  "total_order": "370",
+  "aov": "3.41622718052738",
+  "ts_date": "2023-05-16",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1942.4999999999975",
+  "total_qty": "566",
+  "total_order": "398",
+  "aov": "3.431978798586568",
+  "ts_date": "2023-05-17",
+  "location": "Astoria"
+}, {
+  "total_price": "1791.3499999999985",
+  "total_qty": "359",
+  "total_order": "247",
+  "aov": "4.9898328690807761",
+  "ts_date": "2023-05-17",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1684.1499999999965",
+  "total_qty": "510",
+  "total_order": "369",
+  "aov": "3.3022549019607772",
+  "ts_date": "2023-05-17",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1965.9399999999973",
+  "total_qty": "566",
+  "total_order": "397",
+  "aov": "3.4733922261484054",
+  "ts_date": "2023-05-18",
+  "location": "Astoria"
+}, {
+  "total_price": "1949.3299999999972",
+  "total_qty": "583",
+  "total_order": "419",
+  "aov": "3.3436192109776965",
+  "ts_date": "2023-05-18",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1668.1999999999971",
+  "total_qty": "510",
+  "total_order": "376",
+  "aov": "3.270980392156857",
+  "ts_date": "2023-05-18",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "2184.6999999999989",
+  "total_qty": "644",
+  "total_order": "448",
+  "aov": "3.3923913043478242",
+  "ts_date": "2023-05-19",
+  "location": "Astoria"
+}, {
+  "total_price": "1908.8299999999965",
+  "total_qty": "561",
+  "total_order": "405",
+  "aov": "3.4025490196078367",
+  "ts_date": "2023-05-19",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1564.3499999999965",
+  "total_qty": "497",
+  "total_order": "361",
+  "aov": "3.1475855130784636",
+  "ts_date": "2023-05-19",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1798.7299999999987",
+  "total_qty": "423",
+  "total_order": "416",
+  "aov": "4.252316784869973",
+  "ts_date": "2023-05-20",
+  "location": "Astoria"
+}, {
+  "total_price": "1883.1499999999969",
+  "total_qty": "568",
+  "total_order": "393",
+  "aov": "3.3154049295774595",
+  "ts_date": "2023-05-20",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1837.3999999999974",
+  "total_qty": "602",
+  "total_order": "357",
+  "aov": "3.0521594684385338",
+  "ts_date": "2023-05-20",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1568.7799999999982",
+  "total_qty": "418",
+  "total_order": "295",
+  "aov": "3.7530622009569332",
+  "ts_date": "2023-05-21",
+  "location": "Astoria"
+}, {
+  "total_price": "2085.0799999999972",
+  "total_qty": "605",
+  "total_order": "436",
+  "aov": "3.4464132231404911",
+  "ts_date": "2023-05-21",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1716.9499999999982",
+  "total_qty": "544",
+  "total_order": "322",
+  "aov": "3.1561580882352906",
+  "ts_date": "2023-05-21",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1773.149999999998",
+  "total_qty": "582",
+  "total_order": "390",
+  "aov": "3.0466494845360792",
+  "ts_date": "2023-05-22",
+  "location": "Astoria"
+}, {
+  "total_price": "1510.9499999999987",
+  "total_qty": "442",
+  "total_order": "320",
+  "aov": "3.4184389140271465",
+  "ts_date": "2023-05-22",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "2257.0599999999981",
+  "total_qty": "705",
+  "total_order": "407",
+  "aov": "3.2015035460992882",
+  "ts_date": "2023-05-22",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1653.0999999999995",
+  "total_qty": "525",
+  "total_order": "359",
+  "aov": "3.1487619047619035",
+  "ts_date": "2023-05-23",
+  "location": "Astoria"
+}, {
+  "total_price": "1835.9299999999992",
+  "total_qty": "544",
+  "total_order": "394",
+  "aov": "3.37487132352941",
+  "ts_date": "2023-05-23",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1753.8799999999972",
+  "total_qty": "572",
+  "total_order": "322",
+  "aov": "3.0662237762237714",
+  "ts_date": "2023-05-23",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1889.6499999999987",
+  "total_qty": "605",
+  "total_order": "422",
+  "aov": "3.123388429752064",
+  "ts_date": "2023-05-24",
+  "location": "Astoria"
+}, {
+  "total_price": "1533.1999999999991",
+  "total_qty": "444",
+  "total_order": "314",
+  "aov": "3.4531531531531514",
+  "ts_date": "2023-05-24",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1968.5999999999972",
+  "total_qty": "633",
+  "total_order": "368",
+  "aov": "3.1099526066350665",
+  "ts_date": "2023-05-24",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1628.1499999999994",
+  "total_qty": "528",
+  "total_order": "369",
+  "aov": "3.0836174242424232",
+  "ts_date": "2023-05-25",
+  "location": "Astoria"
+}, {
+  "total_price": "1597.3999999999983",
+  "total_qty": "456",
+  "total_order": "321",
+  "aov": "3.5030701754385927",
+  "ts_date": "2023-05-25",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "2005.2999999999981",
+  "total_qty": "629",
+  "total_order": "353",
+  "aov": "3.1880763116057205",
+  "ts_date": "2023-05-25",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1826.6499999999994",
+  "total_qty": "591",
+  "total_order": "409",
+  "aov": "3.0907783417935693",
+  "ts_date": "2023-05-26",
+  "location": "Astoria"
+}, {
+  "total_price": "1507.2999999999986",
+  "total_qty": "451",
+  "total_order": "337",
+  "aov": "3.34212860310421",
+  "ts_date": "2023-05-26",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1966.9999999999975",
+  "total_qty": "619",
+  "total_order": "343",
+  "aov": "3.1777059773828715",
+  "ts_date": "2023-05-26",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1661.0499999999988",
+  "total_qty": "540",
+  "total_order": "374",
+  "aov": "3.0760185185185165",
+  "ts_date": "2023-05-27",
+  "location": "Astoria"
+}, {
+  "total_price": "1655.2499999999943",
+  "total_qty": "582",
+  "total_order": "406",
+  "aov": "2.8440721649484439",
+  "ts_date": "2023-05-27",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "2242.8499999999985",
+  "total_qty": "693",
+  "total_order": "403",
+  "aov": "3.2364357864357842",
+  "ts_date": "2023-05-27",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1612.8499999999992",
+  "total_qty": "531",
+  "total_order": "372",
+  "aov": "3.0373822975517877",
+  "ts_date": "2023-05-28",
+  "location": "Astoria"
+}, {
+  "total_price": "1264.7499999999991",
+  "total_qty": "404",
+  "total_order": "299",
+  "aov": "3.130569306930691",
+  "ts_date": "2023-05-28",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1461.0499999999995",
+  "total_qty": "467",
+  "total_order": "328",
+  "aov": "3.1285867237687355",
+  "ts_date": "2023-05-28",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1637.0999999999995",
+  "total_qty": "516",
+  "total_order": "363",
+  "aov": "3.1726744186046503",
+  "ts_date": "2023-05-29",
+  "location": "Astoria"
+}, {
+  "total_price": "1125.15",
+  "total_qty": "363",
+  "total_order": "257",
+  "aov": "3.0995867768595042",
+  "ts_date": "2023-05-29",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1197.2499999999998",
+  "total_qty": "391",
+  "total_order": "286",
+  "aov": "3.0620204603580556",
+  "ts_date": "2023-05-29",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1670.9499999999982",
+  "total_qty": "539",
+  "total_order": "382",
+  "aov": "3.1000927643784753",
+  "ts_date": "2023-05-30",
+  "location": "Astoria"
+}, {
+  "total_price": "1432.499999999998",
+  "total_qty": "426",
+  "total_order": "307",
+  "aov": "3.3626760563380236",
+  "ts_date": "2023-05-30",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1732.0299999999986",
+  "total_qty": "500",
+  "total_order": "333",
+  "aov": "3.4640599999999973",
+  "ts_date": "2023-05-30",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1671.1099999999988",
+  "total_qty": "512",
+  "total_order": "367",
+  "aov": "3.2638867187499976",
+  "ts_date": "2023-05-31",
+  "location": "Astoria"
+}, {
+  "total_price": "1363.7499999999989",
+  "total_qty": "416",
+  "total_order": "295",
+  "aov": "3.2782451923076894",
+  "ts_date": "2023-05-31",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1649.2699999999982",
+  "total_qty": "500",
+  "total_order": "320",
+  "aov": "3.2985399999999965",
+  "ts_date": "2023-05-31",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1794.8499999999988",
+  "total_qty": "583",
+  "total_order": "408",
+  "aov": "3.0786449399656926",
+  "ts_date": "2023-06-01",
+  "location": "Astoria"
+}, {
+  "total_price": "1829.1999999999996",
+  "total_qty": "582",
+  "total_order": "392",
+  "aov": "3.1429553264604806",
+  "ts_date": "2023-06-01",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1602.9499999999989",
+  "total_qty": "511",
+  "total_order": "350",
+  "aov": "3.1368884540117397",
+  "ts_date": "2023-06-01",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1915.4499999999989",
+  "total_qty": "622",
+  "total_order": "432",
+  "aov": "3.07950160771704",
+  "ts_date": "2023-06-02",
+  "location": "Astoria"
+}, {
+  "total_price": "1701.5999999999992",
+  "total_qty": "555",
+  "total_order": "381",
+  "aov": "3.0659459459459444",
+  "ts_date": "2023-06-02",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1439.4500000000003",
+  "total_qty": "465",
+  "total_order": "330",
+  "aov": "3.0955913978494629",
+  "ts_date": "2023-06-02",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1953.4999999999986",
+  "total_qty": "616",
+  "total_order": "439",
+  "aov": "3.1712662337662314",
+  "ts_date": "2023-06-03",
+  "location": "Astoria"
+}, {
+  "total_price": "1612.7999999999993",
+  "total_qty": "522",
+  "total_order": "360",
+  "aov": "3.0896551724137917",
+  "ts_date": "2023-06-03",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1600.3499999999992",
+  "total_qty": "516",
+  "total_order": "361",
+  "aov": "3.1014534883720914",
+  "ts_date": "2023-06-03",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1760.8999999999985",
+  "total_qty": "572",
+  "total_order": "400",
+  "aov": "3.0784965034965008",
+  "ts_date": "2023-06-04",
+  "location": "Astoria"
+}, {
+  "total_price": "1628.8999999999985",
+  "total_qty": "529",
+  "total_order": "363",
+  "aov": "3.0792060491493354",
+  "ts_date": "2023-06-04",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1595.349999999999",
+  "total_qty": "518",
+  "total_order": "351",
+  "aov": "3.0798262548262527",
+  "ts_date": "2023-06-04",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1842.4499999999989",
+  "total_qty": "595",
+  "total_order": "416",
+  "aov": "3.0965546218487376",
+  "ts_date": "2023-06-05",
+  "location": "Astoria"
+}, {
+  "total_price": "1531.6999999999989",
+  "total_qty": "495",
+  "total_order": "346",
+  "aov": "3.0943434343434322",
+  "ts_date": "2023-06-05",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1536.9999999999989",
+  "total_qty": "487",
+  "total_order": "348",
+  "aov": "3.1560574948665274",
+  "ts_date": "2023-06-05",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1397.1000000000004",
+  "total_qty": "446",
+  "total_order": "313",
+  "aov": "3.1325112107623325",
+  "ts_date": "2023-06-06",
+  "location": "Astoria"
+}, {
+  "total_price": "1611.399999999999",
+  "total_qty": "533",
+  "total_order": "362",
+  "aov": "3.023264540337709",
+  "ts_date": "2023-06-06",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1590.399999999999",
+  "total_qty": "515",
+  "total_order": "366",
+  "aov": "3.088155339805823",
+  "ts_date": "2023-06-06",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1555.5499999999993",
+  "total_qty": "494",
+  "total_order": "355",
+  "aov": "3.1488866396761117",
+  "ts_date": "2023-06-07",
+  "location": "Astoria"
+}, {
+  "total_price": "2045.4999999999973",
+  "total_qty": "652",
+  "total_order": "453",
+  "aov": "3.1372699386503027",
+  "ts_date": "2023-06-07",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1282.0499999999981",
+  "total_qty": "390",
+  "total_order": "275",
+  "aov": "3.2873076923076874",
+  "ts_date": "2023-06-07",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "2168.6799999999994",
+  "total_qty": "574",
+  "total_order": "414",
+  "aov": "3.7781881533101034",
+  "ts_date": "2023-06-08",
+  "location": "Astoria"
+}, {
+  "total_price": "2028.1099999999974",
+  "total_qty": "623",
+  "total_order": "448",
+  "aov": "3.2553932584269623",
+  "ts_date": "2023-06-08",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1954.7999999999993",
+  "total_qty": "591",
+  "total_order": "407",
+  "aov": "3.3076142131979682",
+  "ts_date": "2023-06-08",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1518.4799999999991",
+  "total_qty": "433",
+  "total_order": "341",
+  "aov": "3.5068822170900673",
+  "ts_date": "2023-06-09",
+  "location": "Astoria"
+}, {
+  "total_price": "2189.5999999999963",
+  "total_qty": "693",
+  "total_order": "491",
+  "aov": "3.1595959595959542",
+  "ts_date": "2023-06-09",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "2159.0800000000008",
+  "total_qty": "556",
+  "total_order": "392",
+  "aov": "3.8832374100719438",
+  "ts_date": "2023-06-09",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1749.4499999999966",
+  "total_qty": "538",
+  "total_order": "375",
+  "aov": "3.2517657992564994",
+  "ts_date": "2023-06-10",
+  "location": "Astoria"
+}, {
+  "total_price": "1990.699999999998",
+  "total_qty": "612",
+  "total_order": "439",
+  "aov": "3.2527777777777747",
+  "ts_date": "2023-06-10",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1886.5999999999976",
+  "total_qty": "558",
+  "total_order": "396",
+  "aov": "3.3810035842293864",
+  "ts_date": "2023-06-10",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1703.6499999999971",
+  "total_qty": "524",
+  "total_order": "368",
+  "aov": "3.2512404580152618",
+  "ts_date": "2023-06-11",
+  "location": "Astoria"
+}, {
+  "total_price": "2002.529999999997",
+  "total_qty": "636",
+  "total_order": "455",
+  "aov": "3.1486320754716934",
+  "ts_date": "2023-06-11",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1712.429999999998",
+  "total_qty": "543",
+  "total_order": "385",
+  "aov": "3.1536464088397755",
+  "ts_date": "2023-06-11",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1244.5999999999985",
+  "total_qty": "394",
+  "total_order": "273",
+  "aov": "3.1588832487309606",
+  "ts_date": "2023-06-12",
+  "location": "Astoria"
+}, {
+  "total_price": "2106.5999999999976",
+  "total_qty": "644",
+  "total_order": "453",
+  "aov": "3.2711180124223564",
+  "ts_date": "2023-06-12",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1977.4999999999991",
+  "total_qty": "636",
+  "total_order": "436",
+  "aov": "3.1092767295597472",
+  "ts_date": "2023-06-12",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1439.4499999999985",
+  "total_qty": "480",
+  "total_order": "341",
+  "aov": "2.9988541666666633",
+  "ts_date": "2023-06-13",
+  "location": "Astoria"
+}, {
+  "total_price": "2534.8000000000006",
+  "total_qty": "769",
+  "total_order": "493",
+  "aov": "3.2962288686605992",
+  "ts_date": "2023-06-13",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "2215.1099999999965",
+  "total_qty": "689",
+  "total_order": "447",
+  "aov": "3.2149637155297484",
+  "ts_date": "2023-06-13",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1588.5499999999975",
+  "total_qty": "425",
+  "total_order": "303",
+  "aov": "3.7377647058823471",
+  "ts_date": "2023-06-14",
+  "location": "Astoria"
+}, {
+  "total_price": "2496.6100000000038",
+  "total_qty": "672",
+  "total_order": "498",
+  "aov": "3.7151934523809578",
+  "ts_date": "2023-06-14",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1751.3599999999969",
+  "total_qty": "511",
+  "total_order": "393",
+  "aov": "3.4273189823874697",
+  "ts_date": "2023-06-14",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "2373.2099999999991",
+  "total_qty": "661",
+  "total_order": "468",
+  "aov": "3.5903328290468974",
+  "ts_date": "2023-06-15",
+  "location": "Astoria"
+}, {
+  "total_price": "1788.1799999999971",
+  "total_qty": "549",
+  "total_order": "392",
+  "aov": "3.2571584699453497",
+  "ts_date": "2023-06-15",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1644.8499999999974",
+  "total_qty": "518",
+  "total_order": "377",
+  "aov": "3.1753861003860955",
+  "ts_date": "2023-06-15",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "2229.7999999999979",
+  "total_qty": "679",
+  "total_order": "483",
+  "aov": "3.2839469808541941",
+  "ts_date": "2023-06-16",
+  "location": "Astoria"
+}, {
+  "total_price": "1975.9499999999971",
+  "total_qty": "597",
+  "total_order": "436",
+  "aov": "3.3097989949748694",
+  "ts_date": "2023-06-16",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1805.6799999999969",
+  "total_qty": "548",
+  "total_order": "412",
+  "aov": "3.2950364963503591",
+  "ts_date": "2023-06-16",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "2072.6499999999987",
+  "total_qty": "618",
+  "total_order": "435",
+  "aov": "3.3538025889967615",
+  "ts_date": "2023-06-17",
+  "location": "Astoria"
+}, {
+  "total_price": "2320.1000000000008",
+  "total_qty": "397",
+  "total_order": "273",
+  "aov": "5.8440806045340068",
+  "ts_date": "2023-06-17",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1724.849999999996",
+  "total_qty": "537",
+  "total_order": "391",
+  "aov": "3.2120111731843504",
+  "ts_date": "2023-06-17",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "2044.8799999999978",
+  "total_qty": "605",
+  "total_order": "437",
+  "aov": "3.3799669421487568",
+  "ts_date": "2023-06-18",
+  "location": "Astoria"
+}, {
+  "total_price": "2175.9299999999976",
+  "total_qty": "638",
+  "total_order": "451",
+  "aov": "3.4105485893416891",
+  "ts_date": "2023-06-18",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1805.279999999997",
+  "total_qty": "537",
+  "total_order": "402",
+  "aov": "3.3617877094972011",
+  "ts_date": "2023-06-18",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "2546.4300000000012",
+  "total_qty": "688",
+  "total_order": "489",
+  "aov": "3.701206395348839",
+  "ts_date": "2023-06-19",
+  "location": "Astoria"
+}, {
+  "total_price": "2124.0799999999972",
+  "total_qty": "624",
+  "total_order": "454",
+  "aov": "3.4039743589743545",
+  "ts_date": "2023-06-19",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1733.3999999999965",
+  "total_qty": "546",
+  "total_order": "400",
+  "aov": "3.1747252747252683",
+  "ts_date": "2023-06-19",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1679.3799999999983",
+  "total_qty": "440",
+  "total_order": "434",
+  "aov": "3.8167727272727232",
+  "ts_date": "2023-06-20",
+  "location": "Astoria"
+}, {
+  "total_price": "1885.6499999999971",
+  "total_qty": "575",
+  "total_order": "396",
+  "aov": "3.2793913043478211",
+  "ts_date": "2023-06-20",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1929.6299999999972",
+  "total_qty": "629",
+  "total_order": "372",
+  "aov": "3.067774244833064",
+  "ts_date": "2023-06-20",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1614.249999999998",
+  "total_qty": "438",
+  "total_order": "317",
+  "aov": "3.6855022831050182",
+  "ts_date": "2023-06-21",
+  "location": "Astoria"
+}, {
+  "total_price": "2303.8299999999963",
+  "total_qty": "671",
+  "total_order": "485",
+  "aov": "3.4334277198211569",
+  "ts_date": "2023-06-21",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1890.2999999999981",
+  "total_qty": "586",
+  "total_order": "351",
+  "aov": "3.2257679180887342",
+  "ts_date": "2023-06-21",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1912.0499999999986",
+  "total_qty": "613",
+  "total_order": "407",
+  "aov": "3.1191680261011396",
+  "ts_date": "2023-06-22",
+  "location": "Astoria"
+}, {
+  "total_price": "1557.0999999999983",
+  "total_qty": "469",
+  "total_order": "341",
+  "aov": "3.3200426439232373",
+  "ts_date": "2023-06-22",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "2145.9499999999975",
+  "total_qty": "688",
+  "total_order": "399",
+  "aov": "3.1191133720930195",
+  "ts_date": "2023-06-22",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1864.399999999999",
+  "total_qty": "594",
+  "total_order": "409",
+  "aov": "3.1387205387205368",
+  "ts_date": "2023-06-23",
+  "location": "Astoria"
+}, {
+  "total_price": "1984.0799999999988",
+  "total_qty": "570",
+  "total_order": "402",
+  "aov": "3.480842105263156",
+  "ts_date": "2023-06-23",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1933.3799999999972",
+  "total_qty": "631",
+  "total_order": "356",
+  "aov": "3.06399366085578",
+  "ts_date": "2023-06-23",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "2117.5499999999993",
+  "total_qty": "678",
+  "total_order": "472",
+  "aov": "3.1232300884955739",
+  "ts_date": "2023-06-24",
+  "location": "Astoria"
+}, {
+  "total_price": "1690.7999999999988",
+  "total_qty": "511",
+  "total_order": "359",
+  "aov": "3.3088062622309176",
+  "ts_date": "2023-06-24",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "2097.7499999999973",
+  "total_qty": "657",
+  "total_order": "383",
+  "aov": "3.1929223744292194",
+  "ts_date": "2023-06-24",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1740.6999999999996",
+  "total_qty": "568",
+  "total_order": "396",
+  "aov": "3.0646126760563375",
+  "ts_date": "2023-06-25",
+  "location": "Astoria"
+}, {
+  "total_price": "1769.1999999999985",
+  "total_qty": "527",
+  "total_order": "376",
+  "aov": "3.3571157495256139",
+  "ts_date": "2023-06-25",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "2244.9499999999975",
+  "total_qty": "707",
+  "total_order": "402",
+  "aov": "3.1753182461103218",
+  "ts_date": "2023-06-25",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1975.0999999999997",
+  "total_qty": "635",
+  "total_order": "432",
+  "aov": "3.1103937007874012",
+  "ts_date": "2023-06-26",
+  "location": "Astoria"
+}, {
+  "total_price": "1746.0999999999988",
+  "total_qty": "528",
+  "total_order": "387",
+  "aov": "3.3070075757575736",
+  "ts_date": "2023-06-26",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "2154.6999999999989",
+  "total_qty": "674",
+  "total_order": "376",
+  "aov": "3.196884272997031",
+  "ts_date": "2023-06-26",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1861.5499999999988",
+  "total_qty": "598",
+  "total_order": "421",
+  "aov": "3.1129598662207338",
+  "ts_date": "2023-06-27",
+  "location": "Astoria"
+}, {
+  "total_price": "1676.6999999999948",
+  "total_qty": "594",
+  "total_order": "414",
+  "aov": "2.8227272727272639",
+  "ts_date": "2023-06-27",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "2437.3999999999983",
+  "total_qty": "770",
+  "total_order": "442",
+  "aov": "3.1654545454545433",
+  "ts_date": "2023-06-27",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1758.1",
+  "total_qty": "580",
+  "total_order": "393",
+  "aov": "3.031206896551724",
+  "ts_date": "2023-06-28",
+  "location": "Astoria"
+}, {
+  "total_price": "1445.8499999999995",
+  "total_qty": "459",
+  "total_order": "334",
+  "aov": "3.149999999999999",
+  "ts_date": "2023-06-28",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1524.9499999999989",
+  "total_qty": "492",
+  "total_order": "343",
+  "aov": "3.0994918699186971",
+  "ts_date": "2023-06-28",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1852.7499999999991",
+  "total_qty": "585",
+  "total_order": "410",
+  "aov": "3.1670940170940156",
+  "ts_date": "2023-06-29",
+  "location": "Astoria"
+}, {
+  "total_price": "1298.5499999999997",
+  "total_qty": "420",
+  "total_order": "294",
+  "aov": "3.0917857142857135",
+  "ts_date": "2023-06-29",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1299.4499999999998",
+  "total_qty": "424",
+  "total_order": "305",
+  "aov": "3.0647405660377354",
+  "ts_date": "2023-06-29",
+  "location": "Lower Manhattan"
+}, {
+  "total_price": "1807.649999999998",
+  "total_qty": "577",
+  "total_order": "404",
+  "aov": "3.1328422876949706",
+  "ts_date": "2023-06-30",
+  "location": "Astoria"
+}, {
+  "total_price": "1904.9299999999978",
+  "total_qty": "478",
+  "total_order": "343",
+  "aov": "3.985209205020916",
+  "ts_date": "2023-06-30",
+  "location": "Hell\u0027s Kitchen"
+}, {
+  "total_price": "1768.7399999999977",
+  "total_qty": "535",
+  "total_order": "348",
+  "aov": "3.3060560747663508",
+  "ts_date": "2023-06-30",
+  "location": "Lower Manhattan"
+}]

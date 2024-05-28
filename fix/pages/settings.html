@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customers</title>
+
+    <!-- Montserrat Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../css/settings.css">
+</head>
+<body>
+    <div class="grid-container">
+
+        <!-- Header -->
+        <header class="header">
+            <form class="header-left">
+              <span class="material-icons-outlined" id="searchIcon">search</span>
+              <input type="text" class="search-input" id="searchInput" placeholder="Search...">
+              <button class="btnSearch" id="btnSearch">Find</button>
+          </form>
+      
+            <div class="header-right">
+              <span class="material-icons-outlined notification-icon" onclick="toggleNotifications()">notifications</span>
+              <div id="notificationsPanel" class="notifications">
+                <a href="#">Notification 1</a>
+                <a href="#">Notification 2</a>
+                <a href="#">Notification 3</a>
+              </div>
+            
+      
+              <div class="header-right">
+                <span class="material-icons-outlined email-icon" onclick="toggleEmailPanel()">email</span>
+                <div id="emailPanel" class="email-panel">
+                    <!-- Tambahkan elemen untuk menampilkan pesan email -->
+                    <div class="email-item">Email 1: Subject - Lorem ipsum dolor sit amet</div>
+                    <div class="email-item">Email 2: Subject - Consectetur adipiscing elit</div>
+                    <div class="email-item">Email 3: Subject - Sed do eiusmod tempor incididunt</div>
+                </div>
+            </div>
+        
+            <div class="header-right">
+              <span class="material-icons-outlined" onclick="toggleAccountPanel()">account_circle</span>
+              <div class="dropdown" id="accountPanel">
+                  <div class="dropdown-content">
+                      <img src="tes/images/bgrevou.jpg" alt="Profile Picture" class="profile-picture">
+                      <a href="#">Profile</a>
+                      <a href="#">Settings</a>
+                      <a href="#">Logout</a>
+                  </div>
+              </div>
+            </div>
+      
+          </header>
+        <!-- End Header -->
+
+        <!-- Sidebar -->
+        <aside id="sidebar">
+            <div class="sidebar-title">
+              <div class="sidebar-brand">
+                <span class="material-icons-outlined">shopping_cart</span> STORE
+              </div>
+              <span class="material-icons-outlined" onclick="closeSidebar()">close</span>
+            </div>
+
+            <ul class="sidebar-list">
+                <ul class="sidebar-list">
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" data-page="../index.html" class="sidebar-link">
+                        <span class="material-icons-outlined">dashboard</span> Dashboard
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" data-page="../pages/product.html" class="sidebar-link" data-page="../pages/product.html">
+                        <span class="material-icons-outlined">inventory_2</span> Products
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" class="sidebar-link">
+                        <span class="material-icons-outlined">category</span> Categories
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" data-page="../pages/customers.html" class="sidebar-link">
+                        <span class="material-icons-outlined">groups</span> Customers
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" class="sidebar-link">
+                        <span class="material-icons-outlined">fact_check</span> Inventory
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" class="sidebar-link"><span class="material-icons-outlined">poll</span> Reports
+                      </a>
+                    </li>
+                    <li class="sidebar-list-item">
+                      <a href="javascript:void(0)" data-page="../pages/settings.html" class="sidebar-link">
+                        <span class="material-icons-outlined">settings</span> Settings
+                      </a>
+                    </li>
+            </ul>
+        </aside>
+        <!-- End Sidebar -->
+
+        <!-- Main Content -->
+        <div class="container">
+            <h1>Settings</h1>
+            <form id="settings-form">
+                <div class="form-group">
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" placeholder="Enter your username">
+                </div>
+                <div class="form-group">
+                    <label for="password">New Password</label>
+                    <input type="password" id="password" name="password" placeholder="Enter new password">
+                </div>
+                <div class="form-group">
+                    <label for="theme">Theme</label>
+                    <select id="theme" name="theme">
+                        <option value="light">Light</option>
+                        <option value="dark">Dark</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="notifications">Notifications</label>
+                    <select id="notifications" name="notifications">
+                        <option value="enabled">Enabled</option>
+                        <option value="disabled">Disabled</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="language">Language</label>
+                    <select id="language" name="language">
+                        <option value="english">English</option>
+                        <option value="spanish">Spanish</option>
+                        <option value="french">French</option>
+                        <!-- Add more languages as needed -->
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="profile-info">Profile Information</label>
+                    <textarea id="profile-info" name="profile-info" placeholder="Enter your profile information"></textarea>
+                </div>
+                <button type="submit">Save Settings</button>
+            </form>
+        </div>
+        <!-- End Main Content -->
+    </div>
+
+    <!-- Custom JavaScript -->
+    <script src="../js/settings.js" ></script>
+</body>
+</html>

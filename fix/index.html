@@ -1,0 +1,255 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+      <!-- Montserrat Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet">
+
+  <!-- Material Icons -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/styles.css">
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+    
+</head>
+<body>
+    <div class="grid-container">
+                <!-- Start Header -->
+                <header class="header">
+                  <form class="header-left">
+                    <span class="material-icons-outlined" id="searchIcon">search</span>
+                    <input type="text" class="search-input" id="searchInput" placeholder="Search...">
+                    <button class="btnSearch" id="btnSearch">Find</button>
+                </form>
+            
+                  <div class="header-right">
+                    <span class="material-icons-outlined notification-icon" onclick="toggleNotifications()">notifications</span>
+                    <div id="notificationsPanel" class="notifications">
+                      <a href="#">Notification 1</a>
+                      <a href="#">Notification 2</a>
+                      <a href="#">Notification 3</a>
+                    </div>
+                  
+            
+                    <div class="header-right">
+                      <span class="material-icons-outlined email-icon" onclick="toggleEmailPanel()">email</span>
+                      <div id="emailPanel" class="email-panel">
+                          <!-- Tambahkan elemen untuk menampilkan pesan email -->
+                          <div class="email-item">Email 1: Subject - Lorem ipsum dolor sit amet</div>
+                          <div class="email-item">Email 2: Subject - Consectetur adipiscing elit</div>
+                          <div class="email-item">Email 3: Subject - Sed do eiusmod tempor incididunt</div>
+                      </div>
+                  </div>
+              
+                  <div class="header-right">
+                    <span class="material-icons-outlined" onclick="toggleAccountPanel()">account_circle</span>
+                    <div class="dropdown" id="accountPanel">
+                        <div class="dropdown-content">
+                            <img src="tes/images/bgrevou.jpg" alt="Profile Picture" class="profile-picture">
+                            <a href="#">Profile</a>
+                            <a href="#">Settings</a>
+                            <a href="#">Logout</a>
+                        </div>
+                    </div>
+                  </div>
+            
+                </header>
+  
+      <!-- End Header -->
+          <!-- Start to Section -->
+    <section id="sidebar">
+        <div class="sidebar-title">
+          <div class="sidebar-brand">
+            <span class="material-icons-outlined">shopping_cart</span> STORE
+          </div>
+          <span class="material-icons-outlined" onclick="closeSidebar()">close</span>
+        </div>
+  
+        <ul class="sidebar-list">
+          <li class="sidebar-list-item">
+            <a href="javascript:void(0)" data-page="index.html" class="sidebar-link">
+              <span class="material-icons-outlined">dashboard</span> Dashboard
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="javascript:void(0)" data-page="pages/product.html" class="sidebar-link" data-page="pages/product.html">
+              <span class="material-icons-outlined">inventory_2</span> Products
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="javascript:void(0)" class="sidebar-link">
+              <span class="material-icons-outlined">category</span> Categories
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="javascript:void(0)" data-page="pages/customers.html" class="sidebar-link">
+              <span class="material-icons-outlined">groups</span> Customers
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="javascript:void(0)" class="sidebar-link">
+              <span class="material-icons-outlined">fact_check</span> Inventory
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="javascript:void(0)" class="sidebar-link"><span class="material-icons-outlined">poll</span> Reports
+            </a>
+          </li>
+          <li class="sidebar-list-item">
+            <a href="javascript:void(0)" data-page="pages/settings.html" class="sidebar-link">
+              <span class="material-icons-outlined">settings</span> Settings
+            </a>
+          </li>
+  
+        </ul>
+      </section>
+      <!-- End Section --> 
+
+      <!-- Main -->
+      <main class="main-container">
+        <div class="main-title">
+          <h2>CoffeShop Sales Dashboard</h2>
+        </div>
+        <div class="main-cards">
+
+            <div class="card">
+              <div class="card-inner">
+                <h3>Total Sales</h3>
+                <span class="material-icons-outlined">inventory_2</span>
+              </div>
+              <h1>249</h1>
+            </div>
+    
+            <div class="card">
+              <div class="card-inner">
+                <h3>Total Quantity</h3>
+                <span class="material-icons-outlined">category</span>
+              </div>
+              <h1>25</h1>
+            </div>
+    
+            <div class="card">
+              <div class="card-inner">
+                <h3>Total Order</h3>
+                <span class="material-icons-outlined">groups</span>
+              </div>
+              <h1>1500</h1>
+            </div>
+    
+          </div>
+
+          <div class="charts-card">
+            <h2 class="chart-title"> Daily Chart </h2>
+            <div>
+              <label for="monthSelect">Select Month:</label>
+              <select id="monthSelect" onchange="filterDataByMonth()">
+                  <option value="all">All</option>
+                  <option value="1">January</option>
+                  <option value="2">February</option>
+                  <option value="3">March</option>
+                  <option value="4">April</option>
+                  <option value="5">May</option>
+                  <option value="6">June</option>
+              </select>
+      
+              <label for="valueSelect">Select Value:</label>
+              <select id="valueSelect" onchange="filterDataByMonth()">
+                  <option value="total_price">Total Price</option>
+                  <option value="total_qty">Total Quantity</option>
+                  <option value="total_order">Total Orders</option>
+                  <option value="aov">AOV</option>
+              </select>
+          </div>
+      
+          <canvas id="lineChart" width="600" height="200"></canvas>
+
+          </div>
+
+          <div class="charts">
+
+            <div class="charts-card">
+              <h2 class="chart-title"> Monthly Chart</h2>
+              <div>
+                <div>
+                  <label for="barMonthSelect">Select Month:</label>
+                  <select id="barMonthSelect" onchange="updateBarChart()">
+                      <option value="all">All</option>
+                      <option value="1">January</option>
+                      <option value="2">February</option>
+                      <option value="3">March</option>
+                      <option value="4">April</option>
+                      <option value="5">May</option>
+                      <option value="6">June</option>
+                  </select>
+          
+                  <label for="barValueSelect">Select Value:</label>
+                  <select id="barValueSelect" onchange="updateBarChart()">
+                      <option value="total_price">Total Price</option>
+                      <option value="total_qty">Total Quantity</option>
+                      <option value="total_order">Total Orders</option>
+                      <option value="aov">AOV</option>
+                  </select>
+              </div>
+          
+              <canvas id="barChart" width="600" height="400"></canvas>
+                
+            </div>
+
+            </div>
+
+            
+
+            
+            <div class="charts-card">
+              <h2 class="chart-title"> Location and Item Category </h2>
+              <div><canvas id="stackedBarChartcategoru"></canvas>
+                <select id="dataSelector">
+                  <option value="total_order">Total Orders</option>
+                  <option value="aov">Average Order Value</option>
+                  <option value="total_qty">Total Quantity</option>
+              </select>
+              </div>
+            </div>
+            
+
+          <div class="charts-card">
+            <h2 class="chart-title"> Price and Category </h2>
+            <div><canvas id="stackedBarChartprice_item"></canvas>
+              <select id="dataSelector2">
+                <option value="total_order">Total Orders</option>
+                <option value="aov">Average Order Value</option>
+                <option value="total_qty">Total Quantity</option>
+            </select>
+            </div>
+          </div> 
+
+            <div class="charts-card">
+              <h2 class="chart-title"> Price and Location </h2>
+              <div><canvas id="stackbarpriceloc"></canvas>
+                <select id="dataSelector3">
+                  <option value="total_order">Total Orders</option>
+                  <option value="aov">Average Order Value</option>
+                  <option value="total_qty">Total Quantity</option>
+              </select>
+              </div>
+        </div>
+
+ <!-- END MAIN-->
+ 
+
+
+    </div>
+    <script src= "https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"> </script> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+    <script type="module" src="chartjs.js"></script>
+
+    <script src="js/scripts.js"></script>
+    
+</body>
+</html>

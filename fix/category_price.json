@@ -1,0 +1,79 @@
+[{
+  "total_qty": "1828",
+  "total_order": "1753",
+  "aov": "21.928473741794349",
+  "category": "Coffee beans",
+  "price_category": "More than 6$"
+}, {
+  "total_qty": "1210",
+  "total_order": "1210",
+  "aov": "9.2674380165289758",
+  "category": "Loose Tea",
+  "price_category": "More than 6$"
+}, {
+  "total_qty": "487",
+  "total_order": "487",
+  "aov": "9.0505954825461767",
+  "category": "Packaged Chocolate",
+  "price_category": "More than 6$"
+}, {
+  "total_qty": "22405",
+  "total_order": "14674",
+  "aov": "2.163128765900467",
+  "category": "Coffee",
+  "price_category": "Less 2.5$"
+}, {
+  "total_qty": "36390",
+  "total_order": "23868",
+  "aov": "2.887971970321487",
+  "category": "Coffee",
+  "price_category": "Between 2.5$ and 3.5$"
+}, {
+  "total_qty": "30455",
+  "total_order": "19874",
+  "aov": "3.8218437038253161",
+  "category": "Coffee",
+  "price_category": "Between 3.5$ and 6$"
+}, {
+  "total_qty": "65391",
+  "total_order": "42619",
+  "aov": "2.7377154348458963",
+  "category": "Tea",
+  "price_category": "Between 2.5$ and 3.5$"
+}, {
+  "total_qty": "4346",
+  "total_order": "2830",
+  "aov": "4.0",
+  "category": "Tea",
+  "price_category": "Between 3.5$ and 6$"
+}, {
+  "total_qty": "17457",
+  "total_order": "11468",
+  "aov": "4.1482499856790973",
+  "category": "Drinking Chocolate",
+  "price_category": "Between 3.5$ and 6$"
+}, {
+  "total_qty": "10511",
+  "total_order": "6790",
+  "aov": "0.80000000000007709",
+  "category": "Flavours",
+  "price_category": "Less 2.5$"
+}, {
+  "total_qty": "8414",
+  "total_order": "8156",
+  "aov": "3.1649750415973541",
+  "category": "Bakery",
+  "price_category": "Between 2.5$ and 3.5$"
+}, {
+  "total_qty": "14800",
+  "total_order": "14640",
+  "aov": "3.7625364864864705",
+  "category": "Bakery",
+  "price_category": "Between 3.5$ and 6$"
+}, {
+  "total_qty": "776",
+  "total_order": "747",
+  "aov": "17.534793814432991",
+  "category": "Branded",
+  "price_category": "More than 6$"
+}]

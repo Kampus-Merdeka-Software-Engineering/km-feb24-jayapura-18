@@ -1,0 +1,109 @@
+[{
+  "total_qty": "8281",
+  "total_order": "5913",
+  "aov": "3.2983528559352182",
+  "month": "2023-01-01",
+  "store_location": "Astoria"
+}, {
+  "total_qty": "7718",
+  "total_order": "5490",
+  "aov": "3.2528297486394893",
+  "month": "2023-02-01",
+  "store_location": "Astoria"
+}, {
+  "total_qty": "9999",
+  "total_order": "7180",
+  "aov": "3.2838713871386846",
+  "month": "2023-03-01",
+  "store_location": "Astoria"
+}, {
+  "total_qty": "12026",
+  "total_order": "8556",
+  "aov": "3.2826883419258333",
+  "month": "2023-04-01",
+  "store_location": "Astoria"
+}, {
+  "total_qty": "16114",
+  "total_order": "11475",
+  "aov": "3.253615489636343",
+  "month": "2023-05-01",
+  "store_location": "Astoria"
+}, {
+  "total_qty": "16853",
+  "total_order": "11985",
+  "aov": "3.2684453806443936",
+  "month": "2023-06-01",
+  "store_location": "Astoria"
+}, {
+  "total_qty": "8340",
+  "total_order": "5868",
+  "aov": "3.335809352517924",
+  "month": "2023-01-01",
+  "store_location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "7937",
+  "total_order": "5606",
+  "aov": "3.2404938893787882",
+  "month": "2023-02-01",
+  "store_location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "10198",
+  "total_order": "7267",
+  "aov": "3.2467709354774761",
+  "month": "2023-03-01",
+  "store_location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "12194",
+  "total_order": "8629",
+  "aov": "3.305243562407739",
+  "month": "2023-04-01",
+  "store_location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "15944",
+  "total_order": "11294",
+  "aov": "3.2989795534370212",
+  "month": "2023-05-01",
+  "store_location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "17124",
+  "total_order": "12071",
+  "aov": "3.3261551039476847",
+  "month": "2023-06-01",
+  "store_location": "Hell\u0027s Kitchen"
+}, {
+  "total_qty": "8249",
+  "total_order": "5533",
+  "aov": "3.2177754879378688",
+  "month": "2023-01-01",
+  "store_location": "Lower Manhattan"
+}, {
+  "total_qty": "7895",
+  "total_order": "5263",
+  "aov": "3.2070994300189386",
+  "month": "2023-02-01",
+  "store_location": "Lower Manhattan"
+}, {
+  "total_qty": "10209",
+  "total_order": "6782",
+  "aov": "3.2215378587520322",
+  "month": "2023-03-01",
+  "store_location": "Lower Manhattan"
+}, {
+  "total_qty": "12249",
+  "total_order": "8150",
+  "aov": "3.1969409747734159",
+  "month": "2023-04-01",
+  "store_location": "Lower Manhattan"
+}, {
+  "total_qty": "16175",
+  "total_order": "10758",
+  "aov": "3.1962948995363343",
+  "month": "2023-05-01",
+  "store_location": "Lower Manhattan"
+}, {
+  "total_qty": "16965",
+  "total_order": "11296",
+  "aov": "3.2092950191570973",
+  "month": "2023-06-01",
+  "store_location": "Lower Manhattan"
+}]
