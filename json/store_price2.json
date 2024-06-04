@@ -1,0 +1,85 @@
+[{
+  "total_sales": "19959.910000000185",
+  "total_qty": "1235",
+  "total_order": "1235",
+  "aov": "16.161870445344281",
+  "location": "Astoria",
+  "price_category": "More than 6$"
+}, {
+  "total_sales": "17875.149999998797",
+  "total_qty": "9662",
+  "total_order": "6532",
+  "aov": "1.850046574208114",
+  "location": "Astoria",
+  "price_category": "Less 2.5$"
+}, {
+  "total_sales": "104640.85000000622",
+  "total_qty": "37137",
+  "total_order": "25911",
+  "aov": "2.8176979831436633",
+  "location": "Astoria",
+  "price_category": "Between 2.5$ and 3.5$"
+}, {
+  "total_sales": "89768.0",
+  "total_qty": "22957",
+  "total_order": "16921",
+  "aov": "3.9102670209522148",
+  "location": "Astoria",
+  "price_category": "Between 3.5$ and 6$"
+}, {
+  "total_sales": "26737.220000000321",
+  "total_qty": "1591",
+  "total_order": "1521",
+  "aov": "16.8052922690134",
+  "location": "Hell\u0027s Kitchen",
+  "price_category": "More than 6$"
+}, {
+  "total_sales": "19273.349999997798",
+  "total_qty": "11204",
+  "total_order": "7464",
+  "aov": "1.7202204569794535",
+  "location": "Hell\u0027s Kitchen",
+  "price_category": "Less 2.5$"
+}, {
+  "total_sales": "103790.10000000516",
+  "total_qty": "36732",
+  "total_order": "25399",
+  "aov": "2.8256043776545017",
+  "location": "Hell\u0027s Kitchen",
+  "price_category": "Between 2.5$ and 3.5$"
+}, {
+  "total_sales": "86710.5",
+  "total_qty": "22210",
+  "total_order": "16351",
+  "aov": "3.9041197658712292",
+  "location": "Hell\u0027s Kitchen",
+  "price_category": "Between 3.5$ and 6$"
+}, {
+  "total_sales": "22616.3600000002",
+  "total_qty": "1475",
+  "total_order": "1441",
+  "aov": "15.33312542372895",
+  "location": "Lower Manhattan",
+  "price_category": "More than 6$"
+}, {
+  "total_sales": "19725.199999997916",
+  "total_qty": "12050",
+  "total_order": "7468",
+  "aov": "1.6369460580911133",
+  "location": "Lower Manhattan",
+  "price_category": "Less 2.5$"
+}, {
+  "total_sales": "102314.40000000356",
+  "total_qty": "36326",
+  "total_order": "23333",
+  "aov": "2.8165611407808062",
+  "location": "Lower Manhattan",
+  "price_category": "Between 2.5$ and 3.5$"
+}, {
+  "total_sales": "85401.29000000027",
+  "total_qty": "21891",
+  "total_order": "15540",
+  "aov": "3.9012055182495211",
+  "location": "Lower Manhattan",
+  "price_category": "Between 3.5$ and 6$"
+}]
